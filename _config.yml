@@ -21,7 +21,7 @@ repository               : "asalarpour/asalarpour.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Github.png"
   name             : "Amir Salarpour"
   pronouns         : # example: "she/her"  
   bio              : "I'm a research visitor at CMU, deeply passionate about Computer Vision and Machine Learning. Currently, my work focuses on Point Cloud Analysis."
