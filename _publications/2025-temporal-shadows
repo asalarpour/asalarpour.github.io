@@ -10,17 +10,17 @@ authors:
   - Cigdem Kokenoz
   - Bing Li
   - Mert D Pesé
-venue: "Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)"
-pages: 3591--3599
+venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+pages: 3591–3599
 category: conference
 pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPR_2025_paper.pdf
-citation: "Pedram MohajerAnsari, Amir Salarpour, David Fernandez, Cigdem Kokenoz, Bing Li, Mert D Pesé. <i>Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences</i>. In Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), pages 3591–3599, 2025."
+citation: "P. MohajerAnsari, A. Salarpour, D. Fernandez, C. Kokenoz, B. Li, M. D. Pesé. <i>Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences</i>. CVPR 2025, pp. 3591–3599."
 ---
 
-We present a framework for black-box adversarial attacks on traffic signs using dynamic, temporally coherent shadows. Unlike prior work that focuses on single-image attacks or relies on conspicuous physical artifacts, our method operates over entire image sequences, mimicking realistic scenarios where a traffic sign is observed from varying distances.
+We present a framework for black-box adversarial attacks on traffic signs using **temporally coherent shadows**. Unlike single-frame attacks, our method operates across sequences, simulating realistic AV camera observations.
 
-We design a non-differentiable shadow generator that casts a single fixed-shape, fixed-opacity shadow whose spatial scale evolves over time to simulate natural environmental shading. A genetic algorithm is used to optimize shadow geometry and opacity, guided by a dual loss that jointly maximizes classification error and visual attention disruption. Attention perturbation is measured using DINO ViT attention maps between clean and shadowed frames.
+We design a **non-differentiable shadow generator** whose scale evolves over time and use a **genetic algorithm** to optimize geometry and opacity. Our dual-loss objective maximizes classification error and attention disruption, measured via DINO ViT attention maps.
 
-Evaluated on the GTSRB dataset, our method achieves a sequence-level attack success rate (SL-ASR)—defined as the percentage of sequences where at least τ out of T frames are misclassified—ranging from **52.3% to 87.5%**, depending on the threshold and shadow type. Furthermore, incorporating attention supervision yields consistent SL-ASR gains of **11–18%** over purely classification-based attacks.
+On GTSRB, our method achieves up to **87.5% SL-ASR**, and **attention supervision** improves effectiveness by 11–18%.
 
 👉 [Read the full paper (PDF)](https://openaccess.thecvf.com/content/CVPR2025/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPR_2025_paper.pdf)
