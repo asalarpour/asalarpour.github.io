@@ -16,7 +16,7 @@ venue: "arXiv preprint arXiv:2506.11472"
 category: manuscripts
 pdf: https://arxiv.org/pdf/2506.11472.pdf
 # citation: "Pedram MohajerAnsari, Amir Salarpour, Michael Kühr, Siyu Huang, Mohammad Hamad, Sebastian Steinhorst, Habeeb Olufowobi, Mert D Pesé. <i>On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving</i>. arXiv preprint arXiv:2506.11472, 2025."
-excerpt: "Demonstrates the inherent adversarial robustness of vision-language models for autonomous vehicle perception without adversarial training."
+# excerpt: "Demonstrates the inherent adversarial robustness of vision-language models for autonomous vehicle perception without adversarial training."
 
 ---
 
