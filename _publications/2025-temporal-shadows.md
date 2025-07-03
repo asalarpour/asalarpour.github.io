@@ -10,17 +10,17 @@ authors:
   - Cigdem Kokenoz
   - Bing Li
   - Mert D Pesé
-venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+venue: "CVPR 2025 – IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 pages: 3591–3599
 category: conference
 pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPR_2025_paper.pdf
-citation: "P. MohajerAnsari, A. Salarpour, D. Fernandez, C. Kokenoz, B. Li, M. D. Pesé. <i>Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences</i>. CVPR 2025, pp. 3591–3599."
+citation: "MohajerAnsari, P., Salarpour, A., Fernandez, D., Kokenoz, C., Li, B., Pesé, M. D. <i>Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences</i>. In CVPR 2025 – IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3591–3599."
 ---
 
-We present a framework for black-box adversarial attacks on traffic signs using **temporally coherent shadows**. Unlike single-frame attacks, our method operates across sequences, simulating realistic AV camera observations.
+We present a framework for black-box adversarial attacks on traffic signs using **temporally coherent shadows**. Unlike previous methods that target isolated frames, our approach attacks entire traffic sign **sequences**, mimicking real-world autonomous vehicle (AV) observation behavior.
 
-We design a **non-differentiable shadow generator** whose scale evolves over time and use a **genetic algorithm** to optimize geometry and opacity. Our dual-loss objective maximizes classification error and attention disruption, measured via DINO ViT attention maps.
+Our method uses a **non-differentiable shadow generator** with fixed geometry and opacity, whose spatial scale evolves over time. A **genetic algorithm** is employed to optimize shadow parameters under a dual-loss objective that maximizes both classification error and attention disruption, using DINO ViT attention maps.
 
-On GTSRB, our method achieves up to **87.5% SL-ASR**, and **attention supervision** improves effectiveness by 11–18%.
+Evaluated on GTSRB, our method achieves a **sequence-level attack success rate (SL-ASR)** of up to **87.5%**, and **attention supervision** improves attack effectiveness by **11–18%** compared to baseline strategies.
 
-👉 [Read the full paper (PDF)](https://openaccess.thecvf.com/content/CVPR2025/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPR_2025_paper.pdf)
+👉 [Read the full paper (PDF)](/files/2025-temporal-shadows.pdf)

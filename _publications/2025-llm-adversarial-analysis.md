@@ -12,20 +12,14 @@ authors:
   - Mert D Pesé
 venue: "The 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25)"
 category: conference
-pdf: /publications/pdfs/vehiclesec25-final74.pdf
+pdf: /publications/pdfs/2025-llm-adversarial-analysis.pdf
 citation: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, Amir Salarpour, Bing Li, Mert D Pesé. <i>WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles</i>. In Proceedings of the 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25), August 2025."
 ---
 
-We propose a framework that leverages Large Language Models (LLMs) for **adversarial scenario analysis in autonomous vehicles (AVs)**, generating interpretable explanations for anomalies and bridging the gap between detection and semantic understanding.
+We propose a framework that leverages Large Language Models (LLMs) for adversarial scenario analysis in autonomous vehicles (AVs), generating interpretable explanations for anomalies and bridging the gap between detection and semantic understanding.
 
-Traditional deep neural networks (DNNs) lack both robustness against perception attacks and interpretability. To address this, we present a zero-shot chain-of-thought (CoT) reasoning system that uses a domain-specific language (DSL) and incorporates formal traffic knowledge from the Manual on Uniform Traffic Control Devices (MUTCD).
+To address the limitations of traditional deep neural networks (DNNs) in robustness and interpretability, we introduce a zero-shot chain-of-thought (CoT) reasoning system that uses a domain-specific language (DSL) and incorporates formal traffic knowledge from the MUTCD.
 
-### 🔍 Key Contributions:
-- **AutoSec-X**: A new dataset of 40 driving scenarios (benign and adversarial) based on MUTCD rules.
-- **Zero-shot CoT prompting**: Allows LLMs to reason about adversarial situations and explain anomalies without needing labeled training data.
-- **Evaluation**: Assesses LLMs (e.g., Gemini, LLaMA, Qwen) using BLEU, ROUGE, and SBERT metrics to quantify reasoning quality.
-
-Experimental results show that larger LLMs like **Gemini 1.5-Pro** provide superior semantic reasoning and more accurate, regulation-based explanations of anomalies.
+We introduce AutoSec-X, a dataset of 40 driving scenarios (benign and adversarial); evaluate zero-shot CoT prompting with LLMs (e.g., Gemini, LLaMA, Qwen); and benchmark performance using BLEU, ROUGE, and SBERT. Our results show that Gemini 1.5-Pro delivers stronger semantic reasoning and rule-based interpretation of adversarial conditions.
 
 👉 [Read the full paper (PDF)](/files/2025-llm-adversarial-analysis.pdf)
-

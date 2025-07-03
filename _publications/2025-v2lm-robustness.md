@@ -22,12 +22,10 @@ Autonomous vehicles (AVs) rely on deep neural networks (DNNs) for critical tasks
 
 In this work, we introduce **Vehicle Vision Language Models (V2LMs)**, fine-tuned vision-language models specialized for AV perception. Our findings demonstrate that V2LMs inherently exhibit superior robustness against unseen attacks without requiring adversarial training, maintaining significantly higher accuracy than conventional DNNs under adversarial conditions.
 
-We evaluate two deployment strategies:
-- **Solo Mode**: Individual V2LMs handle specific perception tasks.
-- **Tandem Mode**: A single unified V2LM is fine-tuned for multiple tasks simultaneously.
+We evaluate two deployment strategies: **Solo Mode**, where individual V2LMs handle specific perception tasks, and **Tandem Mode**, where a single unified V2LM is fine-tuned for multiple tasks simultaneously.
 
 Experimental results show that DNNs suffer performance drops of 33% to 46% under attacks, whereas V2LMs maintain adversarial accuracy with reductions of less than 8% on average. Tandem Mode further offers a memory-efficient alternative with comparable robustness.
 
 We also explore using V2LMs as parallel components in AV perception stacks to enhance resilience. Our results suggest that V2LMs are a promising direction for secure and resilient AV systems.
 
-👉 [Read the full paper (PDF)](https://arxiv.org/pdf/2506.11472.pdf)
+👉 [Read the full paper (PDF)](/files/2025-v2lm-robustness.pdf)

@@ -12,18 +12,13 @@ venue: "SAE Technical Paper"
 issue: 2025-01-8213
 category: technical
 pdf: /publications/pdfs/2025-01-8213.pdf
-citation: "David Fernandez, Pedram MohajerAnsari, Amir Salarpour, Mert D Pesé. <i>Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios</i>. SAE Technical Paper, 2025-01-8213, April 2025."
+citation: "Fernandez, D., MohajerAnsari, P., Salarpour, A., Pesé, M. D. <i>Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios</i>. SAE Technical Paper 2025-01-8213, April 2025."
 ---
 
-Autonomous Vehicles (AVs) are revolutionizing transportation by reducing human error and improving traffic efficiency, powered largely by deep neural networks (DNNs) for image classification and object detection. However, these DNNs require regular retraining to maintain reliability — without it, their performance may degrade and lead to safety-critical failures.
+Autonomous Vehicles (AVs) are transforming transportation by minimizing human error and improving traffic efficiency. These systems typically rely on deep neural networks (DNNs) for critical perception tasks such as image classification and object detection. However, DNN performance can degrade over time without retraining, potentially leading to dangerous misinterpretations of road scenes.
 
-In this paper, we evaluate **Vision-Language Models (VLMs)** such as **LLaVA-7B** and **MoE-LLaVA** in the context of real-world AV crash scenarios. These models can align visual inputs with textual reasoning, making them promising tools for post-incident analysis and crash forensics.
+In this work, we evaluate **Vision-Language Models (VLMs)**—specifically **LLaVA-7B** and **MoE-LLaVA**—for their ability to reason about and interpret real-world AV crash footage. These models can align visual cues with textual logic, offering a semantically richer understanding than traditional DNNs.
 
-We compiled a dataset of real-world crash videos and decomposed them into frames to test the models' ability to:
-- Detect traffic anomalies
-- Interpret causal events
-- Align crash events with road rules
-
-Initial results suggest that VLMs can generalize better than traditional DNNs in unseen, high-risk driving scenarios — especially when evaluating decision-making consistency and semantic reasoning.
+We created a dataset of real-world crash videos, decomposed them into frame sequences, and tested the VLMs' ability to detect anomalies, reason about causality, and align scene outcomes with road regulations. Results show that VLMs generalize better to high-risk, unseen scenarios and provide interpretable explanations for their decisions.
 
 👉 [Read the full paper (PDF)](/files/2025-vlm-crash-eval.pdf)
