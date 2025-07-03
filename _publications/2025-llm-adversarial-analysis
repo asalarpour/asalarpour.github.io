@@ -27,5 +27,5 @@ Traditional deep neural networks (DNNs) lack both robustness against perception 
 
 Experimental results show that larger LLMs like **Gemini 1.5-Pro** provide superior semantic reasoning and more accurate, regulation-based explanations of anomalies.
 
-👉 [Read the full paper (PDF)](/publications/pdfs/2025-llm-adversarial-analysis.pdf)
+👉 [Read the full paper (PDF)](/files/2025-llm-adversarial-analysis.pdf)
 
