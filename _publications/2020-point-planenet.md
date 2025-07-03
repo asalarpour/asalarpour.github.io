@@ -2,7 +2,7 @@
 title: "Point-PlaneNet: Plane kernel based convolutional neural network for point clouds analysis"
 collection: publications
 permalink: /publication/point-planenet/
-date: 2020-XX-XX
+date: 2020-01-01
 authors:
   - "SMM Peyghambarzadeh"
   - "F Azizmalayeri"
