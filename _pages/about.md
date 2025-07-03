@@ -1,7 +1,7 @@
 ---
 title: "Amir Salarpour"
 permalink: /
-layout: default
+layout: single
 author_profile: true
 redirect_from:
   - /about
