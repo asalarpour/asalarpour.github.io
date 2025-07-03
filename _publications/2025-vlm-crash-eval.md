@@ -13,6 +13,8 @@ issue: 2025-01-8213
 category: technical
 pdf: /publications/pdfs/2025-01-8213.pdf
 citation: "Fernandez, D., MohajerAnsari, P., Salarpour, A., Pesé, M. D. <i>Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios</i>. SAE Technical Paper 2025-01-8213, April 2025."
+excerpt: "Evaluates vision-language models like LLaVA in post-crash analysis tasks, showing improved reasoning and generalization in AV-critical scenarios."
+
 ---
 
 Autonomous Vehicles (AVs) are transforming transportation by minimizing human error and improving traffic efficiency. These systems typically rely on deep neural networks (DNNs) for critical perception tasks such as image classification and object detection. However, DNN performance can degrade over time without retraining, potentially leading to dangerous misinterpretations of road scenes.

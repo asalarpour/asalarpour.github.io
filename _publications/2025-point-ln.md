@@ -11,6 +11,8 @@ venue: "2025 29th International Computer Conference, Computer Society of Iran (C
 category: conference
 pdf: /publications/pdfs/2025-point-ln.pdf
 citation: "Mohammadi, M., Salarpour, A., MohajerAnsari, P. <i>Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding</i>. 2025 29th International Computer Conference, Computer Society of Iran (CSICC), February 2025."
+excerpt: "Presents Point-LN, a lightweight point cloud classification framework combining non-learnable geometry with a minimal trainable classifier."
+
 ---
 
 We introduce **Point-LN**, a novel lightweight framework designed for efficient 3D point cloud classification. The architecture combines non-parametric building blocks such as **Farthest Point Sampling (FPS)**, **k-Nearest Neighbors (k-NN)**, and **non-learnable positional encoding** with a minimalist learnable classifier.

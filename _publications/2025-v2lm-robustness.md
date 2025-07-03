@@ -16,6 +16,8 @@ venue: "arXiv preprint arXiv:2506.11472"
 category: manuscripts
 pdf: https://arxiv.org/pdf/2506.11472.pdf
 citation: "Pedram MohajerAnsari, Amir Salarpour, Michael Kühr, Siyu Huang, Mohammad Hamad, Sebastian Steinhorst, Habeeb Olufowobi, Mert D Pesé. <i>On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving</i>. arXiv preprint arXiv:2506.11472, 2025."
+excerpt: "Demonstrates the inherent adversarial robustness of vision-language models for autonomous vehicle perception without adversarial training."
+
 ---
 
 Autonomous vehicles (AVs) rely on deep neural networks (DNNs) for critical tasks such as traffic sign recognition (TSR), automated lane centering (ALC), and vehicle detection (VD). However, these models are vulnerable to attacks that can cause misclassifications and compromise safety. Traditional defense mechanisms, including adversarial training, often degrade benign accuracy and fail to generalize against unseen attacks.
