@@ -6,22 +6,26 @@ date: 2025-08-10
 authors:
   - David Fernandez
   - Pedram MohajerAnsari
-  - Amir Salarpour
   - Cigdem Kokenoz
+  - Amir Salarpour
   - Bing Li
   - Mert D Pesé
 venue: "The 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25)"
 category: conference
-citation: "David Fernandez, Pedram MohajerAnsari, Amir Salarpour, Cigdem Kokenoz, Bing Li, Mert D Pesé. <i>WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles</i>. In The 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25), 2025."
+pdf: /publications/pdfs/vehiclesec25-final74.pdf
+citation: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, Amir Salarpour, Bing Li, Mert D Pesé. <i>WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles</i>. In Proceedings of the 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25), August 2025."
 ---
 
-This work-in-progress explores how large language models (LLMs) can be leveraged to bridge the gap between adversarial **detection** and **explanation** in autonomous vehicle security systems. Rather than stopping at identifying that an anomaly occurred, our approach uses LLMs to interpret and describe the **context, intent, and potential impact** of adversarial scenarios.
+We propose a framework that leverages Large Language Models (LLMs) for **adversarial scenario analysis in autonomous vehicles (AVs)**, generating interpretable explanations for anomalies and bridging the gap between detection and semantic understanding.
 
-We present early findings from applying LLM-based reasoning to detected adversarial patterns in vision models, including:
-- Scenario classification
-- Threat-level estimation
-- Descriptive summaries for human operators
+Traditional deep neural networks (DNNs) lack both robustness against perception attacks and interpretability. To address this, we present a zero-shot chain-of-thought (CoT) reasoning system that uses a domain-specific language (DSL) and incorporates formal traffic knowledge from the Manual on Uniform Traffic Control Devices (MUTCD).
 
-This initial study indicates LLMs could enhance AV security systems by **generating interpretable responses** to adversarial behavior—potentially enabling faster, more informed human oversight.
+### 🔍 Key Contributions:
+- **AutoSec-X**: A new dataset of 40 driving scenarios (benign and adversarial) based on MUTCD rules.
+- **Zero-shot CoT prompting**: Allows LLMs to reason about adversarial situations and explain anomalies without needing labeled training data.
+- **Evaluation**: Assesses LLMs (e.g., Gemini, LLaMA, Qwen) using BLEU, ROUGE, and SBERT metrics to quantify reasoning quality.
 
-_(Note: This work was presented as part of the Work-in-Progress track at VehicleSec '25.)_
+Experimental results show that larger LLMs like **Gemini 1.5-Pro** provide superior semantic reasoning and more accurate, regulation-based explanations of anomalies.
+
+👉 [Read the full paper (PDF)](/publications/pdfs/2025-llm-adversarial-analysis.pdf)
+
