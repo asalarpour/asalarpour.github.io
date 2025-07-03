@@ -12,7 +12,7 @@ venue: "SAE Technical Paper"
 issue: 2025-01-8213
 category: technical
 pdf: /publications/pdfs/2025-01-8213.pdf
-citation: "Fernandez, D., MohajerAnsari, P., Salarpour, A., Pesé, M. D. <i>Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios</i>. SAE Technical Paper 2025-01-8213, April 2025."
+# citation: "Fernandez, D., MohajerAnsari, P., Salarpour, A., Pesé, M. D. <i>Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios</i>. SAE Technical Paper 2025-01-8213, April 2025."
 excerpt: "Evaluates vision-language models like LLaVA in post-crash analysis tasks, showing improved reasoning and generalization in AV-critical scenarios."
 
 ---

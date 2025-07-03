@@ -9,7 +9,7 @@ authors:
 venue: "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
 category: manuscripts
 pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10967399
-citation: "M. Mohammadi and A. Salarpour. <i>Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification</i>. 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2025."
+# citation: "M. Mohammadi and A. Salarpour. <i>Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification</i>. 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2025."
 excerpt: "Introduces Point-GN, a non-parametric model using Gaussian positional encoding for efficient and scalable 3D point cloud classification."
 
 ---

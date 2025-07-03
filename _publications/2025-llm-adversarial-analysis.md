@@ -13,7 +13,7 @@ authors:
 venue: "The 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25)"
 category: conference
 pdf: /publications/pdfs/2025-llm-adversarial-analysis.pdf
-citation: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, Amir Salarpour, Bing Li, Mert D Pesé. <i>WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles</i>. In Proceedings of the 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25), August 2025."
+# citation: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, Amir Salarpour, Bing Li, Mert D Pesé. <i>WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles</i>. In Proceedings of the 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25), August 2025."
 excerpt: "A zero-shot LLM-based reasoning framework for adversarial scenario analysis in autonomous vehicles, using formal traffic rules and chain-of-thought prompting."
 
 ---

@@ -14,7 +14,7 @@ venue: "CVPR 2025 – IEEE/CVF Conference on Computer Vision and Pattern Recogni
 pages: 3591–3599
 category: conference
 pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPR_2025_paper.pdf
-citation: "MohajerAnsari, P., Salarpour, A., Fernandez, D., Kokenoz, C., Li, B., Pesé, M. D. <i>Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences</i>. In CVPR 2025 – IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3591–3599."
+# citation: "MohajerAnsari, P., Salarpour, A., Fernandez, D., Kokenoz, C., Li, B., Pesé, M. D. <i>Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences</i>. In CVPR 2025 – IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3591–3599."
 excerpt: "Proposes temporally coherent shadow-based adversarial attacks on traffic sign recognition systems, leveraging attention maps and evolutionary optimization."
 
 ---
