@@ -26,4 +26,4 @@ We compiled a dataset of real-world crash videos and decomposed them into frames
 
 Initial results suggest that VLMs can generalize better than traditional DNNs in unseen, high-risk driving scenarios — especially when evaluating decision-making consistency and semantic reasoning.
 
-👉 [Read the full paper (PDF)](/publications/pdfs/2025-vlm-crash-eval.pdf)
+👉 [Read the full paper (PDF)](/files/2025-vlm-crash-eval.pdf)
