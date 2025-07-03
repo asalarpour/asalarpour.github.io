@@ -1,0 +1,27 @@
+---
+title: "WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles"
+collection: publications
+permalink: /publications/2025-llm-adversarial-analysis/
+date: 2025-08-10
+authors:
+  - David Fernandez
+  - Pedram MohajerAnsari
+  - Amir Salarpour
+  - Cigdem Kokenoz
+  - Bing Li
+  - Mert D Pesé
+venue: "The 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25)"
+category: conference
+citation: "David Fernandez, Pedram MohajerAnsari, Amir Salarpour, Cigdem Kokenoz, Bing Li, Mert D Pesé. <i>WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles</i>. In The 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25), 2025."
+---
+
+This work-in-progress explores how large language models (LLMs) can be leveraged to bridge the gap between adversarial **detection** and **explanation** in autonomous vehicle security systems. Rather than stopping at identifying that an anomaly occurred, our approach uses LLMs to interpret and describe the **context, intent, and potential impact** of adversarial scenarios.
+
+We present early findings from applying LLM-based reasoning to detected adversarial patterns in vision models, including:
+- Scenario classification
+- Threat-level estimation
+- Descriptive summaries for human operators
+
+This initial study indicates LLMs could enhance AV security systems by **generating interpretable responses** to adversarial behavior—potentially enabling faster, more informed human oversight.
+
+_(Note: This work was presented as part of the Work-in-Progress track at VehicleSec '25.)_
