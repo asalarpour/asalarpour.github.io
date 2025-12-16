@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<!--
 ## Teaching philosophy
 
 My teaching focuses on three principles:
@@ -12,6 +13,7 @@ My teaching focuses on three principles:
 - **Cohesion:** I organize content as a connected roadmap, so students can see how concepts fit together.
 - **Applied learning:** I pair fundamentals with realistic examples and assignments that require transfer to new settings.
 - **Engagement:** I actively invite questions and create an environment where students feel comfortable participating.
+-->
 
 ## Teaching interests
 
