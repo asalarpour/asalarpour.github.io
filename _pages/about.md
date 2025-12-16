@@ -11,8 +11,6 @@ redirect_from:
 I am a **Postdoctoral Researcher** at **Clemson University** in the **TigerSec Lab**.  
 My work sits at the intersection of **3D perception (point clouds)** and **machine-learning security**, with a focus on **autonomous systems**.
 
-**Links:** [CV](/files/CV.pdf) · [Publications](/publications/) · [Google Scholar](YOUR_LINK) · [GitHub](YOUR_LINK) · [Email](mailto:YOUR_EMAIL)
-
 ---
 
 ## Research
