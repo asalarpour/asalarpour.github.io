@@ -43,7 +43,7 @@ author_profile: true
   <h2>{{ year_group.name }}</h2>
   <hr />
   {% for post in year_group.items %}
-    {% include archive-single.html %}
+    {% comment %}{% include archive-single.html %}{% endcomment %}
   {% endfor %}
 {% endfor %}
 
