@@ -1,0 +1,59 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+## 2026
+- Trustworthy AI for CPS Security *(book chapter, to appear)*
+- Environment-Aware On-Manifold 3D Texture Camouflage for Physical Attacks on Vehicle Detectors *(under review)*
+
+## 2025
+- David vs. Goliath: A Comparative Study of Different-Sized LLMs for Code Generation in the Domain of Automotive Scenario Generation
+- WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles
+- Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis
+- Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios
+- Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences
+- On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving
+- Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification
+- Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding
+- Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet
+
+## 2024
+- Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles
+
+## 2021
+- Comprehensive Strategy for Classification of Voltage Sags Source Location Using Optimal Feature Selection Applied to Support Vector Machine and Ensemble Techniques
+
+## 2020
+- Point-PlaneNet: Plane Kernel Based Convolutional Neural Network for Point Clouds Analysis
+
+## 2019
+- Direction-Based Similarity Measure to Trajectory Clustering
+- Line-Segment Based Trajectory Similarity Measure Using Time Warping Technique
+
+## 2018
+- Kernel Correlation Based CNN for Point Cloud Classification Task
+- An Empirical Comparison of Distance Measures for Multivariate Time Series Clustering
+
+## 2017
+- A Multiresolution Approach to Trajectory Description
+
+## 2016
+- Optimizing Parameters Contributing to Riveting Quality Using Imperialist Competitive Algorithm and Predicting Objective Function via Three Models MLR, RBF, and ANN-GA
+
+## 2015
+- Artificial Neural Networks and Advanced Fuzzy Techniques for Predicting Noise Level in the Industrial Embroidery Workrooms
+- Modelling Broilers’ Abdominal Fat in Response to Dietary Treatments
+
+## 2014
+- Development of a Noise Prediction Model Based on Advanced Fuzzy Approaches in Typical Industrial Workrooms
+- Using Soft Computing to Predict Broilers’ Performance in Response to Herbal Additives
+- Long-Term Estimation of Human Spatial Interactions Through Multiple Laser Ranging Sensors
+
+## 2013
+- Sentiment Analysis and Visualization of Social Media Data: The #bostonmarathon #bombings Test Case
+
+## 2011
+- Vehicle Tracking Using Kalman Filter and Features
