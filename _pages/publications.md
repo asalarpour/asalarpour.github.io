@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 ## 2026
 - Trustworthy AI for CPS Security *(book chapter, to appear)*
 - Environment-Aware On-Manifold 3D Texture Camouflage for Physical Attacks on Vehicle Detectors *(under review)*
+-->
+
 
 ## 2025
 - David vs. Goliath: A Comparative Study of Different-Sized LLMs for Code Generation in the Domain of Automotive Scenario Generation
