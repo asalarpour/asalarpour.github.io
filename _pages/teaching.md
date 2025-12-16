@@ -57,7 +57,3 @@ I enjoy teaching topics at the intersection of:
 - Frequent feedback (rubrics, checkpoints, and revision opportunities)
 - Practical projects that connect theory to real systems
 
----
-
-If you’d like, share your current `_pages/teaching.*` file (or your site nav config), and I’ll align the wording and headings to match your theme’s style exactly.
-::contentReference[oaicite:0]{index=0}
