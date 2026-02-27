@@ -16,11 +16,15 @@ layout: homepage
   <a href="#contact">Contact</a>
 </div>
 
+<hr style="margin: 10px 0 18px; opacity: 0.35;">
+
 ## About Me
 
 I am a **Postdoctoral Research Associate** at **Clemson University** (School of Computing, **TigerSec Lab**) since **Jan. 2024**, working with **Prof. Mert D. Pesé** on **security and robustness of autonomous-vehicle perception**, including **adversarial sensing** and **robust 3D point-cloud perception**.
 
 Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyLab)** in **2023** (supervised by **Prof. Raj Rajkumar**), and an **Assistant Professor of Computer Science** at **Sirjan University of Technology** (2018–2022), where I also served as **Department Chair**.
+
+<hr style="border:0; border-top:1px solid rgba(0,0,0,0.18); margin: 10px 0 18px;">
 
 ## Research Interests {#research}
 
