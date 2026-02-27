@@ -26,6 +26,5 @@ Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyL
 
 {% include_relative _includes/publications.md %}
 
-<h2 id="service">Service</h2>
 
 {% include_relative _includes/services.md %}
