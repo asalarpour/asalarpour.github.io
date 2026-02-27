@@ -11,10 +11,6 @@
     {%- assign image = link.image | default: "" -%}
     {%- assign conf_short = link.conference_short | default: "" -%}
 
-    {%- comment -%}
-      Choose a safe URL for the title:
-      Prefer page > pdf > none
-    {%- endcomment -%}
     {%- assign title_url = "" -%}
     {%- if page != "" -%}
       {%- assign title_url = page -%}
@@ -22,24 +18,29 @@
       {%- assign title_url = pdf -%}
     {%- endif -%}
 
-    {%- comment -%}
-      Button label for "page" link: DOI vs Project Page
-    {%- endcomment -%}
     {%- assign page_label = "Project Page" -%}
     {%- if page contains "doi.org" or page contains "doi:" -%}
       {%- assign page_label = "DOI" -%}
     {%- endif -%}
 
-    <li>
+    <li style="margin-bottom: 16px;">
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
 
           {%- if image != "" -%}
-            <img src="{{ image | relative_url }}"
-                 class="teaser img-fluid z-depth-1"
-                 style="width: 100%; height: auto; max-height: 110px; object-fit: cover;"
-                 loading="lazy"
-                 alt="teaser">
+            {%- if image contains "://" -%}
+              <img src="{{ image }}"
+                   class="teaser img-fluid z-depth-1"
+                   style="width: 100%; height: auto; max-height: 110px; object-fit: cover;"
+                   loading="lazy"
+                   alt="{{ link.title | escape }}">
+            {%- else -%}
+              <img src="{{ image | relative_url }}"
+                   class="teaser img-fluid z-depth-1"
+                   style="width: 100%; height: auto; max-height: 110px; object-fit: cover;"
+                   loading="lazy"
+                   alt="{{ link.title | escape }}">
+            {%- endif -%}
           {%- endif -%}
 
           {%- if conf_short != "" -%}
@@ -82,7 +83,7 @@
             {%- endif -%}
 
             {%- if link.notes and link.notes != "" -%}
-              <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+              <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
             {%- endif -%}
 
             {%- if link.others and link.others != "" -%}
@@ -92,7 +93,6 @@
         </div>
       </div>
     </li>
-    <br>
 
   {%- endfor -%}
 
