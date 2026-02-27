@@ -12,6 +12,7 @@ main:
     bibtex: ""
     notes: "Accepted"
     image: ""
+    selected: true
 
   - title: "NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation"
     authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
@@ -23,6 +24,7 @@ main:
     bibtex: ""
     notes: "Accepted"
     image: ""
+    selected: true
 
   - title: "Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures"
     authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Long Cheng, Abolfazl Razi, Mert D. Pesé"
@@ -34,6 +36,7 @@ main:
     bibtex: ""
     notes: "Accepted"
     image: ""
+    selected: true
 
   - title: "Toward Inherently Robust VLMs Against Visual Perception Attacks"
     authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Michael Kühr, Siyu Huang, Mohammad Hamad, Sebastian Steinhorst, Bing Li, Mert D. Pesé"
@@ -45,6 +48,7 @@ main:
     bibtex: ""
     notes: "Accepted"
     image: ""
+    selected: true
 
   - title: "Trustworthy AI for CPS Security"
     authors: "<strong>Amir Salarpour</strong>, Alkim Domeke, Pedram MohajerAnsari, David Fernandez, Cigdem Kokenoz, Mert D. Pesé"
@@ -56,6 +60,7 @@ main:
     bibtex: ""
     notes: "Accepted book chapter"
     image: ""
+    selected: true
 
   # - title: "FlexMap: Generalized HD Map Construction from Flexible Camera Configurations"
   #   authors: "Run Wang, Chaoyi Zhou, <strong>Amir Salarpour</strong>, Xi Liu, Zhi-Qi Cheng, Feng Luo, Mert D. Pesé, Siyu Huang"
@@ -114,6 +119,7 @@ main:
     bibtex: ""
     notes: "Published"
     image: ""
+    selected: true
 
   - title: "Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences"
     authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, David Fernandez, Cigdem Kokenoz, Bing Li, Mert D. Pesé"
@@ -125,6 +131,7 @@ main:
     bibtex: ""
     notes: "Published"
     image: ""
+    selected: true
 
   - title: "Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios"
     authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Mert D. Pesé"
@@ -136,6 +143,7 @@ main:
     bibtex: ""
     notes: "Best Paper Award"
     image: ""
+    selected: true
 
   - title: "Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding"
     authors: "Marzieh Mohammadi, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
@@ -147,6 +155,7 @@ main:
     bibtex: ""
     notes: "Published"
     image: ""
+    selected: true
 
   - title: "Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification"
     authors: "Marzieh Mohammadi, <strong>Amir Salarpour</strong>"
@@ -158,6 +167,7 @@ main:
     bibtex: ""
     notes: "Published"
     image: ""
+    selected: true
 
   # - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
   #   authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Richard Brooks, Mert D. Pesé"
