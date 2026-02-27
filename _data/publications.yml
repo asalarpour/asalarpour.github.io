@@ -1,22 +1,355 @@
 main:
+  # =========================
+  # 2026
+  # =========================
+  - title: "SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition"
+    authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
+    conference_short: ICRA
+    conference: "2026 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, Accepted; to appear (June 2026)."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Accepted; to appear"
+    image: ""
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation"
+    authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
+    conference_short: IV
+    conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026). arXiv:2602.00542"
+    pdf: "https://arxiv.org/pdf/2602.00542.pdf"
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Accepted; to appear"
+    image: ""
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures"
+    authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Long Cheng, Abolfazl Razi, Mert D. Pesé"
+    conference_short: IV
+    conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026)."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Accepted; to appear"
+    image: ""
+
+  - title: "Toward Inherently Robust VLMs Against Visual Perception Attacks"
+    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Michael Kühr, Siyu Huang, Mohammad Hamad, Sebastian Steinhorst, Bing Li, Mert D. Pesé"
+    conference_short: IV
+    conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026). arXiv:2506.11472"
+    pdf: "https://arxiv.org/pdf/2506.11472.pdf"
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Accepted; to appear"
+    image: ""
+
+  - title: "Trustworthy AI for CPS Security"
+    authors: "<strong>Amir Salarpour</strong>, Alkim Domeke, Pedram MohajerAnsari, David Fernandez, Cigdem Kokenoz, Mert D. Pesé"
+    conference_short: Book
+    conference: "Book chapter (Springer), Accepted; to appear, 2026."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Accepted book chapter; to appear"
+    image: ""
+
+  - title: "FlexMap: Generalized HD Map Construction from Flexible Camera Configurations"
+    authors: "Run Wang, Chaoyi Zhou, <strong>Amir Salarpour</strong>, Xi Liu, Zhi-Qi Cheng, Feng Luo, Mert D. Pesé, Siyu Huang"
+    conference_short: arXiv
+    conference: "Under review (submitted to ICML 2026). arXiv:2601.22376"
+    pdf: "https://arxiv.org/pdf/2601.22376.pdf"
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Under review"
+    image: ""
+
+  # (از بخش comment هم اضافه شد)
+  - title: "Environment-Aware On-Manifold 3D Texture Camouflage for Physical Attacks on Vehicle Detectors"
+    authors: "<strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: "Under review (submitted to IEEE/CVF CVPR 2026)."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Under review"
+    image: ""
+
+  # =========================
+  # 2025
+  # =========================
+  - title: "David vs. Goliath: A Comparative Study of Different-Sized LLMs for Code Generation in the Domain of Automotive Scenario Generation"
+    authors: "Philipp Bauerfeind, <strong>Amir Salarpour</strong>, David Fernandez, Pedram MohajerAnsari, Johannes Reschke, Mert D. Pesé"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2025. arXiv:2510.14115"
+    pdf: "https://arxiv.org/pdf/2510.14115.pdf"
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Preprint"
+    image: ""
+
+  - title: "Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet"
+    authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2025. arXiv:2509.05198"
+    pdf: "https://arxiv.org/pdf/2509.05198.pdf"
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Preprint"
+    image: ""
+
+  - title: "WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles"
+    authors: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, <strong>Amir Salarpour</strong>, Bing Li, Mert D. Pesé"
+    conference_short: VehicleSec
+    conference: "3rd USENIX Symposium on Vehicle Security and Privacy <strong>(VehicleSec 25)</strong>, 2025."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Published"
+    image: ""
+
+  - title: "Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences"
+    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, David Fernandez, Cigdem Kokenoz, Bing Li, Mert D. Pesé"
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Published"
+    image: ""
+
+  - title: "Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios"
+    authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Mert D. Pesé"
+    conference_short: SAE
+    conference: "SAE Technical Paper 2025-01-8213, 2025. <strong>Best Paper Award (SAE/WCX 2025)</strong>."
+    pdf: ""
+    code: ""
+    page: "https://doi.org/10.4271/2025-01-8213"
+    bibtex: ""
+    notes: "Best Paper Award"
+    image: ""
+
+  - title: "Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding"
+    authors: "Marzieh Mohammadi, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
+    conference_short: CSICC
+    conference: "29th International Computer Conference, Computer Society of Iran <strong>(CSICC)</strong>, 2025."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Published"
+    image: ""
+
+  - title: "Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification"
+    authors: "Marzieh Mohammadi, <strong>Amir Salarpour</strong>"
+    conference_short: WACV
+    conference: "IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Published"
+    image: ""
+
+  # (از بخش comment هم اضافه شد)
+  - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
+    authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Richard Brooks, Mert D. Pesé"
+    conference_short: IEEE MultiMedia
+    conference: "IEEE MultiMedia, accepted; to appear, 2025."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Accepted; to appear"
+    image: ""
+
+  # =========================
+  # 2024
+  # =========================
+  - title: "Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles"
+    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Jan De Voor, Alkim Domeke, Arkajyoti Mitra, Grace Johnson, Habeeb Olufowobi, Mohammad Hamad, Mert D. Pesé"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2024. arXiv:2409.18248"
+    pdf: "https://arxiv.org/pdf/2409.18248.pdf"
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: "Preprint"
+    image: ""
+
+  # =========================
+  # Older publications (journals / conferences)
+  # =========================
+  - title: "Comprehensive Strategy for Classification of Voltage Sags Source Location Using Optimal Feature Selection Applied to Support Vector Machine and Ensemble Techniques"
+    authors: "Younes Mohammadi, <strong>Amir Salarpour</strong>, Roberto Chouhy Leborgne"
+    conference_short: IJEPES
+    conference: "International Journal of Electrical Power & Energy Systems, 2021."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Point-PlaneNet: Plane Kernel Based Convolutional Neural Network for Point Clouds Analysis"
+    authors: "S. M. Moein Peyghambarzadeh, Fatemeh Azizmalayeri, Hassan Khotanlou, <strong>Amir Salarpour</strong>"
+    conference_short: DSP
+    conference: "Digital Signal Processing, 2020."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Line-Segment Based Trajectory Similarity Measure Using Time Warping Technique"
+    authors: "<strong>Amir Salarpour</strong>, Hassan Khotanlou, others"
+    conference_short: TJEE
+    conference: "Tabriz Journal of Electrical Engineering, 2019."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Direction-Based Similarity Measure to Trajectory Clustering"
+    authors: "<strong>Amir Salarpour</strong>, Hassan Khotanlou"
+    conference_short: IET SP
+    conference: "IET Signal Processing, 2019."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Kernel Correlation Based CNN for Point Cloud Classification Task"
+    authors: "Fatemeh Azizmalayeri, S. M. Moein Peyghambarzadeh, Hassan Khotanlou, <strong>Amir Salarpour</strong>"
+    conference_short: ICCKE
+    conference: "8th International Conference on Computer and Knowledge Engineering <strong>(ICCKE)</strong>, 2018."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "An Empirical Comparison of Distance Measures for Multivariate Time Series Clustering"
+    authors: "<strong>Amir Salarpour</strong>, Hassan Khotanlou"
+    conference_short: IJE
+    conference: "International Journal of Engineering, 2018."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "A Multiresolution Approach to Trajectory Description"
+    authors: "<strong>Amir Salarpour</strong>, Hassan Khotanlou, Mohammad Amin Mahboubi, Saleh Daghigh"
+    conference_short: IPRIA
+    conference: "3rd International Conference on Pattern Recognition and Image Analysis <strong>(IPRIA)</strong>, 2017."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Optimizing Parameters Contributing to Riveting Quality Using Imperialist Competitive Algorithm and Predicting Objective Function via Three Models MLR, RBF, and ANN-GA"
+    authors: "Abbas Fadaei, Allahyar Gorbanpour, <strong>Amir Salarpour</strong>"
+    conference_short: IJADMT
+    conference: "International Journal of Advanced Design & Manufacturing Technology, 2016."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Artificial Neural Networks and Advanced Fuzzy Techniques for Predicting Noise Level in the Industrial Embroidery Workrooms"
+    authors: "Mohsen Aliabadi, Rostam Golmohammadi, Hassan Khotanlou, Muharram Mansoorizadeh, <strong>Amir Salarpour</strong>"
+    conference_short: Applied AI
+    conference: "Applied Artificial Intelligence, 2015."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Modelling Broilers’ Abdominal Fat in Response to Dietary Treatments"
+    authors: "<strong>Amir Salarpour</strong>, Enayat Rahmatnejad, Hassan Khotanlou"
+    conference_short: JAPAN
+    conference: "Journal of Animal Physiology and Animal Nutrition, 2015."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Development of a Noise Prediction Model Based on Advanced Fuzzy Approaches in Typical Industrial Workrooms"
+    authors: "Mohsen Aliabadi, Rostam Golmohammadi, Hassan Khotanlou, Muharram Mansoorizadeh, <strong>Amir Salarpour</strong>"
+    conference_short: JRHS
+    conference: "Journal of Research in Health Sciences, 2014."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Using Soft Computing to Predict Broilers' Performance in Response to Herbal Additives"
+    authors: "Ali Asghar Saki, <strong>Amir Salarpour</strong>, Enayat Rahmatnejad"
+    conference_short: EPS
+    conference: "European Poultry Science, 2014."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Long-Term Estimation of Human Spatial Interactions Through Multiple Laser Ranging Sensors"
+    authors: "<strong>Amir Salarpour</strong>, Hassan Khotanlou, Nikolaos Mavridis"
+    conference_short: iCREATE
+    conference: "International Conference on Robotics and Emerging Allied Technologies in Engineering <strong>(iCREATE)</strong>, 2014."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Sentiment Analysis and Visualization of Social Media Data: The #BostonMarathon #Bombings Test Case"
+    authors: "<strong>Amir Salarpour</strong>, Mohammad Hossein Bamneshin, Dimitris Proios"
+    conference_short: Online
+    conference: "Online article, 2013."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
+
+  - title: "Vehicle Tracking Using Kalman Filter and Features"
+    authors: "<strong>Amir Salarpour</strong>, Arezoo Salarpour, Mahmoud Fathi, Mir Hossein Dezfoulian"
+    conference_short: SIPIJ
+    conference: "Signal & Image Processing: An International Journal, 2011."
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
