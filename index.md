@@ -2,12 +2,17 @@
 layout: homepage
 ---
 
-<div style="font-size:1.2rem; font-weight:700; margin:8px 0 14px;">
-  <a href="#research">Research</a>   ·
-  <a href="#teaching">Teaching</a>   ·
-  <a href="#news">News</a> ·
-  <a href="#publications">Publications</a> ·
-  <a href="#service">Service</a> ·
+<div style="font-size:1.2rem; font-weight:700; margin:8px 0 14px; display:flex; flex-wrap:wrap; gap:10px 14px;">
+  <a href="#research">Research</a>
+  <span>·</span>
+  <a href="#teaching">Teaching</a>
+  <span>·</span>
+  <a href="#news">News</a>
+  <span>·</span>
+  <a href="#publications">Publications</a>
+  <span>·</span>
+  <a href="#service">Service</a>
+  <span>·</span>
   <a href="#contact">Contact</a>
 </div>
 
