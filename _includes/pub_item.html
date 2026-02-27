@@ -1,0 +1,91 @@
+{%- assign pdf = link.pdf | default: "" -%}
+{%- assign code = link.code | default: "" -%}
+{%- assign page = link.page | default: "" -%}
+{%- assign bibtex = link.bibtex | default: "" -%}
+{%- assign image = link.image | default: "" -%}
+{%- assign conf_short = link.conference_short | default: "" -%}
+
+{%- assign title_url = "" -%}
+{%- if page != "" -%}
+  {%- assign title_url = page -%}
+{%- elsif pdf != "" -%}
+  {%- assign title_url = pdf -%}
+{%- endif -%}
+
+{%- assign page_label = "Project Page" -%}
+{%- if page contains "doi.org" -%}
+  {%- assign page_label = "DOI" -%}
+{%- endif -%}
+
+<li style="margin: 0 0 16px 0;">
+  <div class="pub-row"
+       style="display:flex; gap:15px; align-items:flex-start; flex-wrap:wrap;">
+
+    <!-- Left (image/badge) -->
+    <div class="pub-left"
+         style="flex: 0 0 170px; max-width:170px; position:relative;">
+
+      {%- if image != "" -%}
+        {%- if image contains "://" -%}
+          <img src="{{ image }}"
+               class="teaser img-fluid z-depth-1"
+               style="width:100%; height:110px; object-fit:cover; border-radius:6px;"
+               loading="lazy"
+               alt="{{ link.title | escape }}">
+        {%- else -%}
+          <img src="{{ image | relative_url }}"
+               class="teaser img-fluid z-depth-1"
+               style="width:100%; height:110px; object-fit:cover; border-radius:6px;"
+               loading="lazy"
+               alt="{{ link.title | escape }}">
+        {%- endif -%}
+      {%- else -%}
+        <!-- Placeholder when no image -->
+        <div style="width:100%; height:110px; background:#f2f2f2; border-radius:6px;"></div>
+      {%- endif -%}
+
+      {%- if conf_short != "" -%}
+        <div style="margin-top:6px;">
+          <abbr class="badge">{{ conf_short }}</abbr>
+        </div>
+      {%- endif -%}
+    </div>
+
+    <!-- Right (text) -->
+    <div class="pub-right" style="flex: 1; min-width: 260px;">
+      <div class="title" style="margin-bottom:4px;">
+        {%- if title_url != "" -%}
+          <a href="{{ title_url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>
+        {%- else -%}
+          {{ link.title }}
+        {%- endif -%}
+      </div>
+
+      <div class="author" style="margin-bottom:2px;">{{ link.authors }}</div>
+      <div class="periodical" style="margin-bottom:6px;"><em>{{ link.conference }}</em></div>
+
+      <div class="links">
+        {%- if pdf != "" -%}
+          <a href="{{ pdf }}" class="btn btn-sm z-depth-0" role="button"
+             target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+        {%- endif -%}
+        {%- if code != "" -%}
+          <a href="{{ code }}" class="btn btn-sm z-depth-0" role="button"
+             target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
+        {%- endif -%}
+        {%- if page != "" -%}
+          <a href="{{ page }}" class="btn btn-sm z-depth-0" role="button"
+             target="_blank" rel="noopener noreferrer" style="font-size:12px;">{{ page_label }}</a>
+        {%- endif -%}
+        {%- if bibtex != "" -%}
+          <a href="{{ bibtex }}" class="btn btn-sm z-depth-0" role="button"
+             target="_blank" rel="noopener noreferrer" style="font-size:12px;">BibTeX</a>
+        {%- endif -%}
+
+        {%- if link.notes and link.notes != "" -%}
+          <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</li>
