@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 <div style="font-size:1.2rem; font-weight:700; margin:8px 0 14px;">
-  <a href="#research">Research</a> ·
-  <a href="#teaching">Teaching</a> ·
+  <a href="#research">Research</a>   ·
+  <a href="#teaching">Teaching</a>   ·
   <a href="#news">News</a> ·
   <a href="#publications">Publications</a> ·
   <a href="#service">Service</a> ·
