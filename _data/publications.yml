@@ -10,7 +10,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted; to appear"
+    notes: "Accepted"
     image: ""
 
   - title: "NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation"
@@ -21,7 +21,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted; to appear"
+    notes: "Accepted"
     image: ""
 
   - title: "Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures"
@@ -32,7 +32,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted; to appear"
+    notes: "Accepted"
     image: ""
 
   - title: "Toward Inherently Robust VLMs Against Visual Perception Attacks"
@@ -43,7 +43,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted; to appear"
+    notes: "Accepted"
     image: ""
 
   - title: "Trustworthy AI for CPS Security"
@@ -54,56 +54,55 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted book chapter; to appear"
+    notes: "Accepted book chapter"
     image: ""
 
-  - title: "FlexMap: Generalized HD Map Construction from Flexible Camera Configurations"
-    authors: "Run Wang, Chaoyi Zhou, <strong>Amir Salarpour</strong>, Xi Liu, Zhi-Qi Cheng, Feng Luo, Mert D. Pesé, Siyu Huang"
-    conference_short: arXiv
-    conference: "Under review (submitted to ICML 2026). arXiv:2601.22376"
-    pdf: "https://arxiv.org/pdf/2601.22376.pdf"
-    code: ""
-    page: ""
-    bibtex: ""
-    notes: "Under review"
-    image: ""
+  # - title: "FlexMap: Generalized HD Map Construction from Flexible Camera Configurations"
+  #   authors: "Run Wang, Chaoyi Zhou, <strong>Amir Salarpour</strong>, Xi Liu, Zhi-Qi Cheng, Feng Luo, Mert D. Pesé, Siyu Huang"
+  #   conference_short: arXiv
+  #   conference: "Under review (submitted to ICML 2026). arXiv:2601.22376"
+  #   pdf: "https://arxiv.org/pdf/2601.22376.pdf"
+  #   code: ""
+  #   page: ""
+  #   bibtex: ""
+  #   notes: "Under review"
+  #   image: ""
 
-  # (از بخش comment هم اضافه شد)
-  - title: "Environment-Aware On-Manifold 3D Texture Camouflage for Physical Attacks on Vehicle Detectors"
-    authors: "<strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
-    conference_short: CVPR
-    conference: "Under review (submitted to IEEE/CVF CVPR 2026)."
-    pdf: ""
-    code: ""
-    page: ""
-    bibtex: ""
-    notes: "Under review"
-    image: ""
+  # - title: "Environment-Aware On-Manifold 3D Texture Camouflage for Physical Attacks on Vehicle Detectors"
+  #   authors: "<strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
+  #   conference_short: CVPR
+  #   conference: "Under review (submitted to IEEE/CVF CVPR 2026)."
+  #   pdf: ""
+  #   code: ""
+  #   page: ""
+  #   bibtex: ""
+  #   notes: "Under review"
+  #   image: ""
 
   # =========================
   # 2025
   # =========================
-  - title: "David vs. Goliath: A Comparative Study of Different-Sized LLMs for Code Generation in the Domain of Automotive Scenario Generation"
-    authors: "Philipp Bauerfeind, <strong>Amir Salarpour</strong>, David Fernandez, Pedram MohajerAnsari, Johannes Reschke, Mert D. Pesé"
-    conference_short: arXiv
-    conference: "arXiv preprint, 2025. arXiv:2510.14115"
-    pdf: "https://arxiv.org/pdf/2510.14115.pdf"
-    code: ""
-    page: ""
-    bibtex: ""
-    notes: "Preprint"
-    image: ""
+  # - title: "David vs. Goliath: A Comparative Study of Different-Sized LLMs for Code Generation in the Domain of Automotive Scenario Generation"
+  #   authors: "Philipp Bauerfeind, <strong>Amir Salarpour</strong>, David Fernandez, Pedram MohajerAnsari, Johannes Reschke, Mert D. Pesé"
+  #   conference_short: arXiv
+  #   conference: "arXiv preprint, 2025. arXiv:2510.14115"
+  #   pdf: "https://arxiv.org/pdf/2510.14115.pdf"
+  #   code: ""
+  #   page: ""
+  #   bibtex: ""
+  #   notes: "Preprint"
+  #   image: ""
 
-  - title: "Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet"
-    authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
-    conference_short: arXiv
-    conference: "arXiv preprint, 2025. arXiv:2509.05198"
-    pdf: "https://arxiv.org/pdf/2509.05198.pdf"
-    code: ""
-    page: ""
-    bibtex: ""
-    notes: "Preprint"
-    image: ""
+  # - title: "Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet"
+  #   authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
+  #   conference_short: arXiv
+  #   conference: "arXiv preprint, 2025. arXiv:2509.05198"
+  #   pdf: "https://arxiv.org/pdf/2509.05198.pdf"
+  #   code: ""
+  #   page: ""
+  #   bibtex: ""
+  #   notes: "Preprint"
+  #   image: ""
 
   - title: "WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles"
     authors: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, <strong>Amir Salarpour</strong>, Bing Li, Mert D. Pesé"
@@ -160,31 +159,30 @@ main:
     notes: "Published"
     image: ""
 
-  # (از بخش comment هم اضافه شد)
-  - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
-    authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Richard Brooks, Mert D. Pesé"
-    conference_short: IEEE MultiMedia
-    conference: "IEEE MultiMedia, accepted; to appear, 2025."
-    pdf: ""
-    code: ""
-    page: ""
-    bibtex: ""
-    notes: "Accepted; to appear"
-    image: ""
+  # - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
+  #   authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Richard Brooks, Mert D. Pesé"
+  #   conference_short: IEEE MultiMedia
+  #   conference: "IEEE MultiMedia, accepted; to appear, 2025."
+  #   pdf: ""
+  #   code: ""
+  #   page: ""
+  #   bibtex: ""
+  #   notes: "Accepted; to appear"
+  #   image: ""
 
   # =========================
   # 2024
   # =========================
-  - title: "Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles"
-    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Jan De Voor, Alkim Domeke, Arkajyoti Mitra, Grace Johnson, Habeeb Olufowobi, Mohammad Hamad, Mert D. Pesé"
-    conference_short: arXiv
-    conference: "arXiv preprint, 2024. arXiv:2409.18248"
-    pdf: "https://arxiv.org/pdf/2409.18248.pdf"
-    code: ""
-    page: ""
-    bibtex: ""
-    notes: "Preprint"
-    image: ""
+  # - title: "Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles"
+  #   authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Jan De Voor, Alkim Domeke, Arkajyoti Mitra, Grace Johnson, Habeeb Olufowobi, Mohammad Hamad, Mert D. Pesé"
+  #   conference_short: arXiv
+  #   conference: "arXiv preprint, 2024. arXiv:2409.18248"
+  #   pdf: "https://arxiv.org/pdf/2409.18248.pdf"
+  #   code: ""
+  #   page: ""
+  #   bibtex: ""
+  #   notes: "Preprint"
+  #   image: ""
 
   # =========================
   # Older publications (journals / conferences)
