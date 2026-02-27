@@ -2,6 +2,24 @@
 layout: homepage
 ---
 
+<style>
+  .topnav{
+    font-size:1.2rem;
+    font-weight:700;
+    margin:8px 0 10px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px 14px;
+  }
+  .topnav a{ font-weight:700; text-decoration:none; }
+  .topnav a:hover{ text-decoration:underline; }
+  .section-divider{
+    border:0;
+    border-top:1px solid rgba(0,0,0,0.18);
+    margin: 18px 0 18px;
+  }
+</style>
+
 <div style="font-size:1.2rem; font-weight:700; margin:8px 0 14px; display:flex; flex-wrap:wrap; gap:10px 14px;">
   <a href="#research">Research</a>
   <span>·</span>
@@ -16,7 +34,7 @@ layout: homepage
   <a href="#contact">Contact</a>
 </div>
 
-<hr style="margin: 10px 0 18px; opacity: 0.35;">
+<hr class="section-divider">
 
 ## About Me
 
@@ -24,13 +42,15 @@ I am a **Postdoctoral Research Associate** at **Clemson University** (School of 
 
 Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyLab)** in **2023** (supervised by **Prof. Raj Rajkumar**), and an **Assistant Professor of Computer Science** at **Sirjan University of Technology** (2018–2022), where I also served as **Department Chair**.
 
-<hr style="border:0; border-top:1px solid rgba(0,0,0,0.18); margin: 10px 0 18px;">
+<hr class="section-divider">
 
 ## Research Interests {#research}
 
 - **Autonomous Perception Security:** adversarial sensing/attacks, robust AV perception pipelines, evaluation & defense
 - **3D Computer Vision (Point Clouds):** classification/segmentation, registration, 3D detection & tracking, geometric deep learning
 - **Trustworthy ML:** adversarial robustness, data-efficient training, uncertainty estimation for perception systems
+
+<hr class="section-divider">
 
 ## Teaching {#teaching}
 
@@ -42,6 +62,8 @@ Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyL
 - Graduate: Machine Learning, Deep Learning, Pattern Recognition, Image Processing, Advanced AI
 - Undergraduate: Advanced Programming, Algorithms, AI, ML, Internet Engineering, Software Engineering
 
+<hr class="section-divider">
+
 ## News {#news}
 
 - **[Spring 2026]** Instructor of Record: **CPSC 4200 – Computer Security Principles** (Clemson University).
@@ -49,9 +71,15 @@ Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyL
 - **[2025]** **Best Paper Award (SAE/WCX 2025)** for “Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios”.
 - **[Jan–Dec 2025]** Key Personnel on U.S. DOT UTC (TraCR): **Resilient Autonomous Vehicle Perception Under Adversarial Settings** (Total: **$276,314**).
 
+<hr class="section-divider">
+
 {% include_relative _includes/publications.md %}
 
+<hr class="section-divider">
+
 {% include_relative _includes/services.md %}
+
+<hr class="section-divider">
 
 ## Contact {#contact}
 
