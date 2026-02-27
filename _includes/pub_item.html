@@ -22,33 +22,37 @@
        style="display:flex; gap:15px; align-items:flex-start; flex-wrap:wrap;">
 
     <!-- Left (image/badge) -->
-    <div class="pub-left"
-         style="flex: 0 0 170px; max-width:170px; position:relative;">
-
-      {%- if image != "" -%}
-        {%- if image contains "://" -%}
-          <img src="{{ image }}"
-               class="teaser img-fluid z-depth-1"
-               style="width:100%; height:110px; object-fit:cover; border-radius:6px;"
-               loading="lazy"
-               alt="{{ link.title | escape }}">
+    <div class="pub-left" style="flex: 0 0 170px; max-width:170px;">
+      <div style="position:relative; width:100%; height:110px; border-radius:6px; overflow:hidden;">
+    
+        {%- if image != "" -%}
+          {%- if image contains "://" -%}
+            <img src="{{ image }}"
+                 style="width:100%; height:110px; object-fit:cover; display:block;"
+                 loading="lazy"
+                 alt="{{ link.title | escape }}">
+          {%- else -%}
+            <img src="{{ image | relative_url }}"
+                 style="width:100%; height:110px; object-fit:cover; display:block;"
+                 loading="lazy"
+                 alt="{{ link.title | escape }}">
+          {%- endif -%}
         {%- else -%}
-          <img src="{{ image | relative_url }}"
-               class="teaser img-fluid z-depth-1"
-               style="width:100%; height:110px; object-fit:cover; border-radius:6px;"
-               loading="lazy"
-               alt="{{ link.title | escape }}">
+          <div style="width:100%; height:110px; background:#f2f2f2;"></div>
         {%- endif -%}
-      {%- else -%}
-        <!-- Placeholder when no image -->
-        <div style="width:100%; height:110px; background:#f2f2f2; border-radius:6px;"></div>
-      {%- endif -%}
-
-      {%- if conf_short != "" -%}
-        <div style="margin-top:6px;">
-          <abbr class="badge">{{ conf_short }}</abbr>
-        </div>
-      {%- endif -%}
+    
+        {%- if conf_short != "" -%}
+          <span style="
+            position:absolute; top:8px; left:8px;
+            background:#1e6bd6; color:#fff;
+            font-weight:700; font-size:12px;
+            padding:2px 7px; border-radius:6px;
+            line-height:1.2;
+            box-shadow:0 2px 8px rgba(0,0,0,0.18);
+          ">{{ conf_short }}</span>
+        {%- endif -%}
+    
+      </div>
     </div>
 
     <!-- Right (text) -->
