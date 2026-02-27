@@ -22,9 +22,7 @@ Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyL
 - **[2026]** Papers accepted (to appear) at **IEEE IV 2026** and **ICRA 2026** on robust/VLM & 3D point-cloud perception security.   
 - **[2025]** **Best Paper Award (SAE/WCX 2025)** for “Avoiding the crash: A vision-language model evaluation of critical traffic scenarios”.
 - **[Jan–Dec 2025]** Key Personnel on U.S. DOT UTC (TraCR): **Resilient Autonomous Vehicle Perception Under Adversarial Settings** (Total: **$276,314**).
-- **[Aug 2025]** Co-PI on **NSF SaTC (Medium)** proposal (Submitted; under review, requested **$600,000**). 
 
-<h2 id="publications">Publications</h2>
 
 {% include_relative _includes/publications.md %}
 
