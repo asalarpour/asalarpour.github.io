@@ -11,7 +11,7 @@ main:
     page: ""
     bibtex: ""
     notes: "Accepted"
-    image: ""
+    image: "./assets/publications/2026_icra_slnet.png"
     selected: true
 
   - title: "NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation"
