@@ -19,11 +19,11 @@ main:
     conference_short: IV
     conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026). arXiv:2602.00542"
     pdf: "https://arxiv.org/pdf/2602.00542.pdf"
-    code: ""
-    page: ""
+    code: "https://github.com/m-saeid/NPNet"
+    page: "https://m-saeid.github.io/NPNet/"
     bibtex: ""
     notes: "Accepted"
-    image: ""
+    image: "./assets/publications/2026_iv_npnet.png"
     selected: true
 
   - title: "Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures"
