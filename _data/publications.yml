@@ -7,8 +7,8 @@ main:
     conference_short: ICRA
     conference: "2026 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, Accepted; to appear (June 2026)."
     pdf: ""
-    code: ""
-    page: ""
+    code: "https://github.com/m-saeid/SLNet"
+    page: "https://m-saeid.github.io/SLNet/"
     bibtex: ""
     notes: "Accepted"
     image: "./assets/publications/2026_icra_slnet.png"
@@ -98,16 +98,16 @@ main:
   #   notes: "Preprint"
   #   image: ""
 
-  # - title: "Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet"
-  #   authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
-  #   conference_short: arXiv
-  #   conference: "arXiv preprint, 2025. arXiv:2509.05198"
-  #   pdf: "https://arxiv.org/pdf/2509.05198.pdf"
-  #   code: ""
-  #   page: ""
-  #   bibtex: ""
-  #   notes: "Preprint"
-  #   image: ""
+  - title: "Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet"
+    authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari"
+    conference_short: arXiv
+    conference: "2025 International Conference on Pattern Recognition and Image Analysis <strong>IPRIA</strong>"
+    pdf: "https://arxiv.org/pdf/2509.05198.pdf"
+    code: "https://github.com/m-saeid/ModeNetR_PointSkipNet"
+    page: "https://m-saeid.github.io/ModeNetR_PointSkipNet/"
+    bibtex: ""
+    notes: "Accepted"
+    image: "./assets/publications/2025_ipria_modelnetr.jpg"
 
   - title: "WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles"
     authors: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, <strong>Amir Salarpour</strong>, Bing Li, Mert D. Pesé"
