@@ -21,13 +21,7 @@ main:
     pdf: "https://arxiv.org/pdf/2602.00542.pdf"
     code: "https://github.com/m-saeid/NPNet"
     page: "https://m-saeid.github.io/NPNet/"
-    bibtex: "@article{saeid2026npnet,
-  title={NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation},
-  author={Saeid, Mohammad and Salarpour, Amir and MohajerAnsari, Pedram and Pes{\'e}, Mert D},
-  journal={arXiv preprint arXiv:2602.00542},
-  year={2026}
-}
-"
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:2qycTMCWOqEJ:scholar.google.com/&output=citation&scisdr=Cl_LPR3pEMvL5XuPhko:AFtJQiwAAAAAabGJnkobZ_jkP-cT1ZiCQBciCFA&scisig=AFtJQiwAAAAAabGJnnQru7pbyrWawcCrD2BjxhA&scisf=4&ct=citation&cd=-1&hl=en"
     notes: "Accepted"
     image: "./assets/publications/2026_iv_npnet.png"
     selected: true
