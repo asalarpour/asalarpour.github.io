@@ -6,7 +6,7 @@ main:
     authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
     conference_short: ICRA
     conference: "2026 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, Accepted; to appear (June 2026)."
-    pdf: ""
+    pdf: "https://arxiv.org/abs/2603.07454"
     code: "https://github.com/m-saeid/SLNet"
     page: "https://m-saeid.github.io/SLNet/"
     bibtex: ""
@@ -21,7 +21,13 @@ main:
     pdf: "https://arxiv.org/pdf/2602.00542.pdf"
     code: "https://github.com/m-saeid/NPNet"
     page: "https://m-saeid.github.io/NPNet/"
-    bibtex: ""
+    bibtex: "@article{saeid2026npnet,
+  title={NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation},
+  author={Saeid, Mohammad and Salarpour, Amir and MohajerAnsari, Pedram and Pes{\'e}, Mert D},
+  journal={arXiv preprint arXiv:2602.00542},
+  year={2026}
+}
+"
     notes: "Accepted"
     image: "./assets/publications/2026_iv_npnet.png"
     selected: true
@@ -30,7 +36,7 @@ main:
     authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Long Cheng, Abolfazl Razi, Mert D. Pesé"
     conference_short: IV
     conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026)."
-    pdf: ""
+    pdf: "https://arxiv.org/abs/2603.08897"
     code: ""
     page: ""
     bibtex: ""
