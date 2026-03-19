@@ -169,6 +169,25 @@ main:
     image: ""
     selected: true
 
+  - title: "Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification"
+    authors: "Marzieh Mohammadi, <strong>Amir Salarpour</strong>"
+    conference_short: WACV
+    conference: "IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025, pp. 3487–3496."
+    pdf: "https://openaccess.thecvf.com/content/WACV2025/papers/Mohammadi_Point-GN_A_Non-Parametric_Network_using_Gaussian_Positional_Encoding_for_Point_WACV_2025_paper.pdf"
+    code: "https://github.com/asalarpour/Point_GN"
+    page: ""
+    bibtex: "@InProceedings{Mohammadi_2025_WACV,
+      author    = {Mohammadi, Marzieh and Salarpour, Amir},
+      title     = {Point-GN: A Non-Parametric Network using Gaussian Positional Encoding for Point Cloud Classification},
+      booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+      month     = {February},
+      year      = {2025},
+      pages     = {3487-3496}
+    }"
+    notes: ""
+    image: "./assets/publications/2025_wacv_pointgn.png"
+    selected: true    
+
   # - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
   #   authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Richard Brooks, Mert D. Pesé"
   #   conference_short: IEEE MultiMedia
