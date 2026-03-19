@@ -175,11 +175,10 @@ main:
     conference: "IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025, pp. 3487–3496."
     pdf: "https://openaccess.thecvf.com/content/WACV2025/papers/Mohammadi_Point-GN_A_Non-Parametric_Network_using_Gaussian_Positional_Encoding_for_Point_WACV_2025_paper.pdf"
     code: "https://github.com/asalarpour/Point_GN"
-    page: ""
+    page: "https://doi.org/10.1109/WACV61041.2025.00344"
     bibtex: "./assets/publications/2025_wacv_pointgn.bib"
     notes: ""
-    image: "./assets/publications/2025_wacv_pointgn.png"
-    doi: "https://doi.org/10.1109/WACV61041.2025.00344"
+    image: "./assets/publications/2025_wacv_pointgn.png" 
     selected: true    
 
   # - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
