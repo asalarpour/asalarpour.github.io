@@ -62,33 +62,22 @@ Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyL
 
 ## News {#news}
 
-- **[Mar 2026]** Paper accepted at **DSN 2026**:  
-  “**From MIRAGE to CLEAR: Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems**”.
+- **[Mar 2026]** Paper accepted at **DSN 2026**:
+  "*From MIRAGE to CLEAR: Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems*"
+  
+- **[Jan 2026]** Paper accepted at **ICRA 2026**:
+  "*SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition*"
 
-- **[Jan 2026]** **One paper accepted** at **ICRA 2026**:  
-  “**SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition**”.
+- **[Jan 2026]** Three papers accepted at **IEEE IV 2026**:
+  - "*NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation*"
+  - "*Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures*"
+  - "*Toward Inherently Robust VLMs Against Visual Perception Attacks*"
+      
+- **[Jan 2026]** Received the **Best Paper Award (SAE/WCX 2025)** for:
+  "*Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios*"
 
-- **[Jan 2026]** **Three papers accepted** at **IEEE IV 2026**, including:  
-  “**Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures**” and  
-  “**Toward Inherently Robust VLMs Against Visual Perception Attacks**”.
-
-- **[Jan 2026]** Received the **Best Paper Award (SAE/WCX 2025)** for  
-  “**Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios**”.
-
-- **[Spring 2026]** Instructor of Record for **CPSC 4200 – Computer Security Principles** (Clemson University).
-
-- **[Jan–Dec 2025]** Key Personnel on the U.S. DOT UTC (TraCR) project:  
-  **Resilient Autonomous Vehicle Perception Under Adversarial Settings** (Total: **$276,314**).
-
-## News {#news}
-
-- **[Spring 2026]** Instructor of Record: **CPSC 4200 – Computer Security Principles** (Clemson University).
-- **[Jan 2026]** **Three papers accepted** to **IEEE IV 2026**.
-- **[Jan 2026]** **One paper accepted** to **ICRA 2026**.
-- **[March 2026]** Paper accepted to **DSN 2026**: “**From MIRAGE to CLEAR: Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems**”.
-- **[Jan 2026]** **Best Paper Award (SAE/WCX 2025)** for “Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios”.
-- **[Jan–Dec 2025]** Key Personnel on U.S. DOT UTC (TraCR): **Resilient Autonomous Vehicle Perception Under Adversarial Settings** (Total: **$276,314**).
-
+- **[Jan–Dec 2025]** Key Personnel on **U.S. DOT UTC (TraCR)** grant:
+  *Resilient Autonomous Vehicle Perception Under Adversarial Settings* — Total: **$276,314**
 
 <hr class="section-divider">
 
