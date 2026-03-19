@@ -5,48 +5,48 @@ main:
   - title: "SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition"
     authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
     conference_short: ICRA
-    conference: "2026 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, Accepted; to appear (June 2026)."
+    conference: "IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026."
+    notes: "Accepted"
     pdf: "https://arxiv.org/abs/2603.07454"
     code: "https://github.com/m-saeid/SLNet"
     page: "https://m-saeid.github.io/SLNet/"
     bibtex: ""
-    notes: "Accepted"
     image: "./assets/publications/2026_icra_slnet.png"
     selected: true
 
   - title: "NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation"
     authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
     conference_short: IV
-    conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026). arXiv:2602.00542"
+    conference: "IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, 2026."
+    notes: "Accepted"
     pdf: "https://arxiv.org/pdf/2602.00542.pdf"
     code: "https://github.com/m-saeid/NPNet"
     page: "https://m-saeid.github.io/NPNet/"
     bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:2qycTMCWOqEJ:scholar.google.com/&output=citation&scisdr=Cl_LPR3pEMvL5XuPhko:AFtJQiwAAAAAabGJnkobZ_jkP-cT1ZiCQBciCFA&scisig=AFtJQiwAAAAAabGJnnQru7pbyrWawcCrD2BjxhA&scisf=4&ct=citation&cd=-1&hl=en"
-    notes: "Accepted"
     image: "./assets/publications/2026_iv_npnet.png"
     selected: true
 
   - title: "Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures"
     authors: "David Fernandez, Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Long Cheng, Abolfazl Razi, Mert D. Pesé"
     conference_short: IV
-    conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026)."
+    conference: "IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, 2026."
+    notes: "Accepted"
     pdf: "https://arxiv.org/abs/2603.08897"
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted"
     image: ""
     selected: true
 
   - title: "Toward Inherently Robust VLMs Against Visual Perception Attacks"
     authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Michael Kühr, Siyu Huang, Mohammad Hamad, Sebastian Steinhorst, Bing Li, Mert D. Pesé"
     conference_short: IV
-    conference: "2026 IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, Accepted; to appear (June 2026). arXiv:2506.11472"
+    conference: "IEEE Intelligent Vehicles Symposium <strong>(IV)</strong>, 2026."
+    notes: "Accepted"
     pdf: "https://arxiv.org/pdf/2506.11472.pdf"
     code: ""
     page: ""
     bibtex: ""
-    notes: "Accepted"
     image: ""
     selected: true
 
