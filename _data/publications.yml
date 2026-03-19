@@ -179,6 +179,7 @@ main:
     bibtex: "./assets/publications/2025_wacv_pointgn.bib"
     notes: ""
     image: "./assets/publications/2025_wacv_pointgn.png"
+    doi: "https://doi.org/10.1109/WACV61041.2025.00344"
     selected: true    
 
   # - title: "Forensic Reconstruction of Traffic Incidents: A Vision-Language Model Framework for Post-Incident Forensic Analysis"
