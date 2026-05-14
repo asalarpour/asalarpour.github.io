@@ -2,6 +2,67 @@ main:
   # =========================
   # 2026
   # =========================
+
+    - title: "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection"
+    authors: "<strong>Amir Salarpour</strong>, ADD CO-AUTHORS HERE"
+    conference_short: ICIP
+    conference: "IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2026."
+    notes: "Accepted"
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    selected: true
+
+  - title: "From MIRAGE to CLEAR: Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems"
+    authors: "David Fernandez, Pedram MohajerAnsari, Cigdem Kokenoz, <strong>Amir Salarpour</strong>, Bing Li, Mert D. Pesé"
+    conference_short: DSN
+    conference: "IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN)</strong>, 2026."
+    notes: "Accepted"
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    selected: true
+
+  - title: "Interpretable Adversarial Prompt Tuning via Semantic Concepts"
+    authors: "Pedram MohajerAnsari, Zongxi Liu, Yi Zhu, <strong>Amir Salarpour</strong>, Mert D. Pesé"
+    conference_short: CVPRW
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 6th AdvML Workshop, 2026."
+    notes: "Workshop paper"
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    selected: true
+
+  - title: "SASA: Sequence-Aware Shadow Attacks via Attention Alignment for Traffic Sign Recognition"
+    authors: "<strong>Amir Salarpour</strong>, Pedram MohajerAnsari, David Fernandez, Mert D. Pesé"
+    conference_short: CVPRW
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 6th AdvML Workshop, 2026."
+    notes: "Workshop paper"
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    selected: true
+
+  - title: "Auditing Traffic-Sign Robustness via DDIM Inversion: Do Diffusion Latents Preserve Shadow Attacks?"
+    authors: "Ashton B. McEntarffer, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
+    conference_short: CVPRW
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 6th AdvML Workshop, 2026."
+    notes: "Workshop paper"
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    selected: true
+
   - title: "SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition"
     authors: "Mohammad Saeid, <strong>Amir Salarpour</strong>, Pedram MohajerAnsari, Mert D. Pesé"
     conference_short: ICRA
