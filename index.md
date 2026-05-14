@@ -34,7 +34,7 @@ layout: homepage
 
 ## About Me
 
-I am a **Postdoctoral Research Associate** in the **School of Computing at Clemson University**, affiliated with **TigerSec Lab**, where I work with **Prof. Mert D. Pesé** on **security, robustness, and trustworthiness of autonomous-vehicle perception systems**. My research focuses on **adversarial sensing**, **physical-world attacks and defenses**, **vision-language models for autonomous driving**, and **robust 3D point-cloud perception**.
+I am a **Postdoctoral Research Associate** in the **School of Computing at Clemson University**, affiliated with **TigerSec Lab**, where I work with **Prof. Mert D. Pesé** on **security, robustness, and trustworthiness of autonomous-vehicle perception systems**. My research focuses on **adversarial sensing**, **physical-world and black-box attacks**, **vision-language models for autonomous driving**, and **robust 3D point-cloud perception**.
 
 Previously, I was a **Visiting Researcher** at **Carnegie Mellon University (CyLab)** in **2023**, supervised by **Prof. Raj Rajkumar**, and an **Assistant Professor of Computer Science** at **Sirjan University of Technology** from **2018 to 2022**, where I also served as **Department Chair**.
 
@@ -44,7 +44,7 @@ My broader goal is to build perception systems that remain reliable under advers
 
 ## Research Interests {#research}
 
-- **Secure and Robust Autonomous Perception:** adversarial sensing, physical-world attacks and defenses, robust AV perception pipelines, evaluation, and defense
+- **Secure and Robust Autonomous Perception:** adversarial sensing, physical-world and black-box attacks, robust AV perception pipelines, evaluation, and defense
 - **Vision-Language Models for Autonomous Driving:** VLM robustness, adversarial evaluation, multimodal reasoning, and test-time adaptation
 - **3D Computer Vision and Point Clouds:** classification, segmentation, registration, 3D detection and tracking, and geometric deep learning
 - **Trustworthy Machine Learning:** adversarial robustness, data-efficient training, uncertainty estimation, and reliable deployment of perception systems
