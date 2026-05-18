@@ -4,7 +4,7 @@ main:
   # =========================
 
   - title: "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection"
-    authors: "<strong>Amir Salarpour</strong>, ADD CO-AUTHORS HERE"
+    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, David Fernandez, Mert D. Pesé"
     conference_short: ICIP
     conference: "IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2026."
     notes: "Accepted"
