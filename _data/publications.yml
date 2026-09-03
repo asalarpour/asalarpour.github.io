@@ -208,13 +208,13 @@ main:
 
   - title: "Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences"
     authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, David Fernandez, Cigdem Kokenoz, Bing Li, Mert D. Pesé"
-    conference_short: CVPR
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
-    pdf: ""
+    conference_short: CVPRW
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, AdvML Workshop, 2025."
+    pdf: "https://openaccess.thecvf.com/content/CVPR2025W/AdvML/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPRW_2025_paper.pdf"
     code: ""
-    page: ""
+    page: "https://openaccess.thecvf.com/content/CVPR2025W/AdvML/html/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPRW_2025_paper.html"
     bibtex: ""
-    notes: ""
+    notes: "Workshop paper"
     image: ""
     selected: true
 
