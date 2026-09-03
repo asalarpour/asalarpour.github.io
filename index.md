@@ -65,8 +65,14 @@ My broader goal is to build perception systems that remain reliable under advers
 
 ## News {#news}
 
+- **[Aug 2026]** Paper accepted at **BMVC 2026**:  
+  [*GATE: Reliability-Gated Gaussian Evidence Fusion for Training-Free Test-Time Adaptation of Vision-Language Models*](https://arxiv.org/abs/2608.29395)
+
+- **[Jun 2026]** Paper accepted at **IROS 2026**:  
+  [*Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles*](https://arxiv.org/abs/2608.08815)
+
 - **[May 2026]** Paper accepted at **IEEE ICIP 2026**:  
-  "*Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection*"
+  *Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection*
 
 - **[Mar 2026]** Paper accepted at **DSN 2026**:  
   "*From MIRAGE to CLEAR: Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems*"
