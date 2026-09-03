@@ -3,6 +3,30 @@ main:
   # 2026
   # =========================
 
+  - title: "GATE: Reliability-Gated Gaussian Evidence Fusion for Training-Free Test-Time Adaptation of Vision-Language Models"
+    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Run Wang, Mert D. Pesé"
+    conference_short: BMVC
+    conference: "British Machine Vision Conference <strong>(BMVC)</strong>, 2026."
+    notes: "Accepted"
+    pdf: "https://arxiv.org/pdf/2608.29395.pdf"
+    code: ""
+    page: "https://arxiv.org/abs/2608.29395"
+    bibtex: ""
+    image: ""
+    selected: true
+
+  - title: "Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles"
+    authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, Mert D. Pesé"
+    conference_short: IROS
+    conference: "IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2026."
+    notes: "Accepted"
+    pdf: "https://arxiv.org/pdf/2608.08815.pdf"
+    code: ""
+    page: "https://arxiv.org/abs/2608.08815"
+    bibtex: ""
+    image: ""
+    selected: true
+
   - title: "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection"
     authors: "Pedram MohajerAnsari, <strong>Amir Salarpour</strong>, David Fernandez, Mert D. Pesé"
     conference_short: ICIP
