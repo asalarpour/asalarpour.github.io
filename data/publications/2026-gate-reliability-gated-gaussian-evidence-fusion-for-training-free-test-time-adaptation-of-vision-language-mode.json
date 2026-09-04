@@ -1,0 +1,28 @@
+{
+  "id": "gate-reliability-gated-gaussian-evidence-fusion-for-training-free-test-time-adaptation-of-vision-language-mode",
+  "title": "GATE: Reliability-Gated Gaussian Evidence Fusion for Training-Free Test-Time Adaptation of Vision-Language Models",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "Run Wang",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "BMVC",
+  "venue": "British Machine Vision Conference (BMVC), 2026.",
+  "type": "Conference paper",
+  "status": "Accepted",
+  "featured": true,
+  "order": 1,
+  "topics": [
+    "Vision-language models",
+    "Test-time adaptation"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2608.29395",
+    "pdf": "https://arxiv.org/pdf/2608.29395.pdf"
+  }
+}

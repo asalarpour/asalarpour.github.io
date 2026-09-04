@@ -1,0 +1,31 @@
+{
+  "id": "from-mirage-to-clear-component-level-explainable-anomaly-reasoning-for-autonomous-vehicle-perception-systems",
+  "title": "From MIRAGE to CLEAR: Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems",
+  "authors": [
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Cigdem Kokenoz",
+    "Amir Salarpour",
+    "Bing Li",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "DSN",
+  "venue": "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": true,
+  "order": 4,
+  "topics": [
+    "Autonomous driving",
+    "Adversarial robustness",
+    "Explainability"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://www.computer.org/csdl/proceedings-article/dsn/2026/514900a718/2hXbODhJe00",
+    "doi": "https://doi.org/10.1109/DSN69566.2026.00072"
+  }
+}

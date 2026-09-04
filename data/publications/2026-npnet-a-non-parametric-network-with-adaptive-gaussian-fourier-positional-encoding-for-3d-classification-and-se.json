@@ -1,0 +1,30 @@
+{
+  "id": "npnet-a-non-parametric-network-with-adaptive-gaussian-fourier-positional-encoding-for-3d-classification-and-se",
+  "title": "NPNet: A Non-Parametric Network with Adaptive Gaussian-Fourier Positional Encoding for 3D Classification and Segmentation",
+  "authors": [
+    "Mohammad Saeid",
+    "Amir Salarpour",
+    "Pedram MohajerAnsari",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "IV",
+  "venue": "IEEE Intelligent Vehicles Symposium (IV), 2026.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 9,
+  "topics": [
+    "Autonomous driving",
+    "3D vision"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "/assets/images/publications/npnet-iv-2026.webp",
+  "links": {
+    "paper": "https://arxiv.org/abs/2602.00542",
+    "pdf": "https://arxiv.org/pdf/2602.00542",
+    "code": "https://github.com/m-saeid/NPNet",
+    "project": "https://m-saeid.github.io/NPNet/"
+  }
+}

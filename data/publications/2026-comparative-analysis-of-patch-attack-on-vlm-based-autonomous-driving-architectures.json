@@ -1,0 +1,32 @@
+{
+  "id": "comparative-analysis-of-patch-attack-on-vlm-based-autonomous-driving-architectures",
+  "title": "Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures",
+  "authors": [
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "Long Cheng",
+    "Abolfazl Razi",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "IV",
+  "venue": "IEEE Intelligent Vehicles Symposium (IV), 2026.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 10,
+  "topics": [
+    "Vision-language models",
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2603.08897",
+    "pdf": "https://arxiv.org/pdf/2603.08897",
+    "code": "https://github.com/David-FR/VLMsPatchAttack"
+  }
+}

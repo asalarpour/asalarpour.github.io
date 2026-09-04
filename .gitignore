@@ -1,7 +1,5 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+__pycache__/
+*.py[cod]
+dist/
+.venv/
 .DS_Store
-.jekyll-cache
-git-update.sh

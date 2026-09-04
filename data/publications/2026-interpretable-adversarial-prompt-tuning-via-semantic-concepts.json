@@ -1,0 +1,28 @@
+{
+  "id": "interpretable-adversarial-prompt-tuning-via-semantic-concepts",
+  "title": "Interpretable Adversarial Prompt Tuning via Semantic Concepts",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Zongxi Liu",
+    "Yi Zhu",
+    "Amir Salarpour",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "CVPRW",
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, 2026.",
+  "type": "Workshop paper",
+  "status": "Published",
+  "featured": false,
+  "order": 5,
+  "topics": [
+    "Adversarial robustness",
+    "Explainability"
+  ],
+  "note": "Workshop paper",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://openreview.net/forum?id=JH96sLee8n"
+  }
+}

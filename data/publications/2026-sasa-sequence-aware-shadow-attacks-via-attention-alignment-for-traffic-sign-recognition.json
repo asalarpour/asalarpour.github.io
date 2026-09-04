@@ -1,0 +1,27 @@
+{
+  "id": "sasa-sequence-aware-shadow-attacks-via-attention-alignment-for-traffic-sign-recognition",
+  "title": "SASA: Sequence-Aware Shadow Attacks via Attention Alignment for Traffic Sign Recognition",
+  "authors": [
+    "Amir Salarpour",
+    "Pedram MohajerAnsari",
+    "David Fernandez",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "CVPRW",
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, 2026.",
+  "type": "Workshop paper",
+  "status": "Published",
+  "featured": false,
+  "order": 6,
+  "topics": [
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "Workshop paper",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://openaccess.thecvf.com/content/CVPR2026W/6thAdvML%40CV/html/Salarpour_SASA_Sequence-Aware_Shadow_Attacks_via_Attention_Alignment_for_Traffic_Sign_CVPRW_2026_paper.html"
+  }
+}

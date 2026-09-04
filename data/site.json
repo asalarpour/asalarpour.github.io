@@ -1,0 +1,11 @@
+{
+  "site_url": "https://asalarpour.github.io",
+  "title": "Amir Salarpour",
+  "description": "Amir Salarpour is a researcher in secure and trustworthy perception for autonomous systems, with work spanning adversarial machine learning, vision-language models, and 3D computer vision.",
+  "language": "en",
+  "accent": "Clemson orange",
+  "owner": "Amir Salarpour",
+  "home_publication_limit": 6,
+  "home_news_limit": 4,
+  "home_project_limit": 2
+}

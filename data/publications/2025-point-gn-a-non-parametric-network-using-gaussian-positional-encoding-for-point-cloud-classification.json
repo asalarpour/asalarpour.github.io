@@ -1,0 +1,27 @@
+{
+  "id": "point-gn-a-non-parametric-network-using-gaussian-positional-encoding-for-point-cloud-classification",
+  "title": "Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification",
+  "authors": [
+    "Marzieh Mohammadi",
+    "Amir Salarpour"
+  ],
+  "year": 2025,
+  "venue_short": "WACV",
+  "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025, pp. 3487–3496.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": true,
+  "order": 18,
+  "topics": [
+    "3D vision"
+  ],
+  "note": "",
+  "award": "",
+  "image": "/assets/images/publications/point-gn-wacv-2025.webp",
+  "links": {
+    "paper": "https://doi.org/10.1109/WACV61041.2025.00344",
+    "pdf": "https://openaccess.thecvf.com/content/WACV2025/papers/Mohammadi_Point-GN_A_Non-Parametric_Network_using_Gaussian_Positional_Encoding_for_Point_WACV_2025_paper.pdf",
+    "code": "https://github.com/asalarpour/Point_GN",
+    "bibtex": "/assets/files/point-gn-wacv-2025.bib"
+  }
+}

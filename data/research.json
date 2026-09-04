@@ -1,0 +1,46 @@
+{
+  "heading": "Research",
+  "statement": "My work sits at the intersection of autonomous systems, computer vision, and trustworthy machine learning. I study how perception fails, how those failures can be measured realistically, and how models can remain useful under attack and uncertainty.",
+  "themes": [
+    {
+      "id": "secure-perception",
+      "title": "Secure Autonomous Perception",
+      "description": "Physical and black-box attacks, realistic evaluation, and defenses for camera- and LiDAR-based perception.",
+      "keywords": [
+        "adversarial sensing",
+        "physical attacks",
+        "autonomous vehicles"
+      ]
+    },
+    {
+      "id": "vlm-driving",
+      "title": "Vision-Language Models for Driving",
+      "description": "Robust multimodal reasoning, traffic-scene understanding, and test-time adaptation for driving systems.",
+      "keywords": [
+        "vision-language models",
+        "multimodal reasoning",
+        "test-time adaptation"
+      ]
+    },
+    {
+      "id": "3d-vision",
+      "title": "3D Vision and Point Clouds",
+      "description": "Efficient methods for point-cloud recognition, segmentation, tracking, and geometric representation learning.",
+      "keywords": [
+        "point clouds",
+        "3D perception",
+        "geometric deep learning"
+      ]
+    },
+    {
+      "id": "trustworthy-ml",
+      "title": "Trustworthy Machine Learning",
+      "description": "Reliability under distribution shift, uncertainty-aware deployment, and interpretable failure analysis.",
+      "keywords": [
+        "robustness",
+        "uncertainty",
+        "explainability"
+      ]
+    }
+  ]
+}

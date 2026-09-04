@@ -1,0 +1,50 @@
+{
+  "name": "Amir Salarpour",
+  "given_name": "Amir",
+  "family_name": "Salarpour",
+  "role": "Postdoctoral Research Associate",
+  "affiliation": "School of Computing, Clemson University",
+  "lab": "TigerSec Lab",
+  "location": "Clemson, South Carolina, USA",
+  "tagline": "Secure and trustworthy perception for autonomous systems.",
+  "intro": "I work on secure and trustworthy perception for autonomous systems, with emphasis on adversarial machine learning, vision-language models, and efficient 3D vision.",
+  "bio": [
+    "I am a Postdoctoral Research Associate in the School of Computing at Clemson University and a member of TigerSec Lab, where I work with Prof. Mert D. Pesé on the security, robustness, and trustworthiness of autonomous-vehicle perception systems.",
+    "My research spans adversarial sensing, physical-world and black-box attacks, vision-language models for autonomous driving, robust 3D point-cloud perception, and dependable multimodal reasoning.",
+    "Previously, I was a Visiting Researcher at Carnegie Mellon University’s CyLab in 2023 and an Assistant Professor of Computer Science at Sirjan University of Technology from 2018 to 2022, where I also served as Department Chair."
+  ],
+  "photo_alt": "Professional portrait of Amir Salarpour",
+  "links": [
+    {
+      "id": "scholar",
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=PPyF4hEAAAAJ&hl=en",
+      "external": true
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/asalarpour",
+      "external": true
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/asalarpour/",
+      "external": true
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "url": "mailto:asalarp@clemson.edu",
+      "external": false,
+      "display": "asalarp@clemson.edu"
+    },
+    {
+      "id": "cv",
+      "label": "CV",
+      "url": "/assets/files/Amir_Salarpour_CV.pdf",
+      "external": false
+    }
+  ]
+}

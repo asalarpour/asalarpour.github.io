@@ -1,0 +1,28 @@
+{
+  "id": "distilling-vision-language-models-for-robust-traffic-sign-perception-in-autonomous-vehicles",
+  "title": "Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "IROS",
+  "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.",
+  "type": "Conference paper",
+  "status": "Accepted",
+  "featured": true,
+  "order": 2,
+  "topics": [
+    "Vision-language models",
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2608.08815",
+    "pdf": "https://arxiv.org/pdf/2608.08815.pdf"
+  }
+}

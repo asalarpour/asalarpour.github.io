@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2026-08-07",
+    "label": "Aug 2026",
+    "kind": "Publication",
+    "text": "GATE was accepted to BMVC 2026.",
+    "publication": "gate-reliability-gated-gaussian-evidence-fusion-for-training-free-test-time-adaptation-of-vision-language-mode",
+    "link_text": "GATE"
+  },
+  {
+    "date": "2026-06-17",
+    "label": "Jun 2026",
+    "kind": "Publication",
+    "text": "Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles was accepted to IROS 2026.",
+    "publication": "distilling-vision-language-models-for-robust-traffic-sign-perception-in-autonomous-vehicles"
+  },
+  {
+    "date": "2026-05-01",
+    "label": "May 2026",
+    "kind": "Publication",
+    "text": "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection was accepted to IEEE ICIP 2026.",
+    "publication": "budget-aware-adaptive-adversarial-patches-for-black-box-object-detection"
+  },
+  {
+    "date": "2026-03-20",
+    "label": "Mar 2026",
+    "kind": "Publication",
+    "text": "From MIRAGE to CLEAR was accepted to IEEE/IFIP DSN 2026.",
+    "publication": "from-mirage-to-clear-component-level-explainable-anomaly-reasoning-for-autonomous-vehicle-perception-systems",
+    "link_text": "From MIRAGE to CLEAR"
+  },
+  {
+    "date": "2026-03-15",
+    "label": "Mar 2026",
+    "kind": "Publication",
+    "text": "Three papers were accepted to the CVPR 2026 Workshops / 6th AdvML Workshop.",
+    "publications": [
+      "interpretable-adversarial-prompt-tuning-via-semantic-concepts",
+      "sasa-sequence-aware-shadow-attacks-via-attention-alignment-for-traffic-sign-recognition",
+      "auditing-traffic-sign-robustness-via-ddim-inversion-do-diffusion-latents-preserve-shadow-attacks"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "label": "Jan 2026",
+    "kind": "Publication",
+    "text": "SLNet was accepted to ICRA 2026.",
+    "publication": "slnet-a-super-lightweight-geometry-adaptive-network-for-3d-point-cloud-recognition",
+    "link_text": "SLNet"
+  },
+  {
+    "date": "2026-01-20",
+    "label": "Jan 2026",
+    "kind": "Publication",
+    "text": "Three papers were accepted to the IEEE Intelligent Vehicles Symposium 2026.",
+    "publications": [
+      "npnet-a-non-parametric-network-with-adaptive-gaussian-fourier-positional-encoding-for-3d-classification-and-se",
+      "comparative-analysis-of-patch-attack-on-vlm-based-autonomous-driving-architectures",
+      "toward-inherently-robust-vlms-against-visual-perception-attacks"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "label": "Jan 2026",
+    "kind": "Award",
+    "text": "Avoiding the Crash received the Best Paper Award at SAE/WCX 2025.",
+    "publication": "avoiding-the-crash-a-vision-language-model-evaluation-of-critical-traffic-scenarios",
+    "link_text": "Avoiding the Crash"
+  },
+  {
+    "date": "2025-08-01",
+    "label": "2025–2026",
+    "kind": "Project",
+    "text": "Serving as key personnel on the U.S. DOT UTC TraCR project Resilient Autonomous Vehicle Perception Under Adversarial Settings.",
+    "project": "tracr-resilient-av-perception"
+  }
+]

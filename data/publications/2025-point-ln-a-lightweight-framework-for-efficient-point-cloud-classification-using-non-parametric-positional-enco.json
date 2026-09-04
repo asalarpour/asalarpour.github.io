@@ -1,0 +1,23 @@
+{
+  "id": "point-ln-a-lightweight-framework-for-efficient-point-cloud-classification-using-non-parametric-positional-enco",
+  "title": "Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding",
+  "authors": [
+    "Marzieh Mohammadi",
+    "Amir Salarpour",
+    "Pedram MohajerAnsari"
+  ],
+  "year": 2025,
+  "venue_short": "CSICC",
+  "venue": "29th International Computer Conference, Computer Society of Iran (CSICC), 2025.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 17,
+  "topics": [
+    "3D vision"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {}
+}

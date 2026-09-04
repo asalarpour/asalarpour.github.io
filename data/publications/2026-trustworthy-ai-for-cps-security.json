@@ -1,0 +1,26 @@
+{
+  "id": "trustworthy-ai-for-cps-security",
+  "title": "Trustworthy AI for CPS Security",
+  "authors": [
+    "Amir Salarpour",
+    "Alkim Domeke",
+    "Pedram MohajerAnsari",
+    "David Fernandez",
+    "Cigdem Kokenoz",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "Book",
+  "venue": "Book chapter (Springer), Accepted; to appear, 2026.",
+  "type": "Book chapter",
+  "status": "Accepted",
+  "featured": false,
+  "order": 12,
+  "topics": [
+    "Adversarial robustness"
+  ],
+  "note": "Accepted book chapter",
+  "award": "",
+  "image": "",
+  "links": {}
+}

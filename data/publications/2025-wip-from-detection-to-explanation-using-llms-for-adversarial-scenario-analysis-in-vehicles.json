@@ -1,0 +1,31 @@
+{
+  "id": "wip-from-detection-to-explanation-using-llms-for-adversarial-scenario-analysis-in-vehicles",
+  "title": "WIP: From Detection to Explanation: Using LLMs for Adversarial Scenario Analysis in Vehicles",
+  "authors": [
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Cigdem Kokenoz",
+    "Amir Salarpour",
+    "Bing Li",
+    "Mert D. Pesé"
+  ],
+  "year": 2025,
+  "venue_short": "VehicleSec",
+  "venue": "3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec 25), 2025.",
+  "type": "Workshop paper",
+  "status": "Published",
+  "featured": false,
+  "order": 14,
+  "topics": [
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://www.usenix.org/conference/vehiclesec25/presentation/fernandez",
+    "pdf": "https://www.usenix.org/system/files/vehiclesec25-fernandez.pdf",
+    "code": "https://github.com/tigerseclab/VehicleSec25_LLM_Reasoning"
+  }
+}

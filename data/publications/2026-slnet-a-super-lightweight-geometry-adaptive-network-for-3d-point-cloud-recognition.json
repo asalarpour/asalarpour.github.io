@@ -1,0 +1,29 @@
+{
+  "id": "slnet-a-super-lightweight-geometry-adaptive-network-for-3d-point-cloud-recognition",
+  "title": "SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition",
+  "authors": [
+    "Mohammad Saeid",
+    "Amir Salarpour",
+    "Pedram MohajerAnsari",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "ICRA",
+  "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2026.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": true,
+  "order": 8,
+  "topics": [
+    "3D vision"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "/assets/images/publications/slnet-icra-2026.webp",
+  "links": {
+    "paper": "https://arxiv.org/abs/2603.07454",
+    "pdf": "https://arxiv.org/pdf/2603.07454",
+    "code": "https://github.com/m-saeid/SLNet",
+    "project": "https://m-saeid.github.io/SLNet/"
+  }
+}

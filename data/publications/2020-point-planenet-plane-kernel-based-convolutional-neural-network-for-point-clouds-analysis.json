@@ -1,0 +1,25 @@
+{
+  "id": "point-planenet-plane-kernel-based-convolutional-neural-network-for-point-clouds-analysis",
+  "title": "Point-PlaneNet: Plane Kernel Based Convolutional Neural Network for Point Clouds Analysis",
+  "authors": [
+    "S. M. Moein Peyghambarzadeh",
+    "Fatemeh Azizmalayeri",
+    "Hassan Khotanlou",
+    "Amir Salarpour"
+  ],
+  "year": 2020,
+  "venue_short": "DSP",
+  "venue": "Digital Signal Processing, 2020.",
+  "type": "Journal article",
+  "status": "Published",
+  "featured": false,
+  "order": 20,
+  "topics": [
+    "3D vision",
+    "Signal processing"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {}
+}

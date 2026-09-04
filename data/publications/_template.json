@@ -1,0 +1,30 @@
+{
+  "id": "short-unique-id",
+  "title": "Paper title",
+  "authors": [
+    "Amir Salarpour",
+    "Coauthor Name"
+  ],
+  "year": 2027,
+  "venue_short": "VENUE",
+  "venue": "Full venue name, 2027.",
+  "type": "Conference paper",
+  "status": "Accepted",
+  "featured": false,
+  "order": 999,
+  "topics": [
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "",
+    "pdf": "",
+    "code": "",
+    "project": "",
+    "doi": "",
+    "bibtex": ""
+  }
+}

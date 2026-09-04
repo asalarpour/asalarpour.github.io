@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tracr-resilient-av-perception",
+    "title": "Resilient Autonomous Vehicle Perception Under Adversarial Settings",
+    "short_title": "Resilient AV Perception",
+    "status": "Active",
+    "period": "2025–2026",
+    "sponsor": "U.S. DOT UTC TraCR",
+    "role": "Key Personnel",
+    "summary": "Research on realistic physical attacks and defenses for camera- and LiDAR-based autonomous-vehicle perception, with an emphasis on robustness under changing viewpoints, distance, and environmental conditions.",
+    "topics": [
+      "autonomous driving",
+      "adversarial perception",
+      "camera and LiDAR"
+    ],
+    "featured": true,
+    "links": []
+  }
+]

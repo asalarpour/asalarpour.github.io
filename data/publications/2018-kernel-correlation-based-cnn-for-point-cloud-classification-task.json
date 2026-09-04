@@ -1,0 +1,24 @@
+{
+  "id": "kernel-correlation-based-cnn-for-point-cloud-classification-task",
+  "title": "Kernel Correlation Based CNN for Point Cloud Classification Task",
+  "authors": [
+    "Fatemeh Azizmalayeri",
+    "S. M. Moein Peyghambarzadeh",
+    "Hassan Khotanlou",
+    "Amir Salarpour"
+  ],
+  "year": 2018,
+  "venue_short": "ICCKE",
+  "venue": "8th International Conference on Computer and Knowledge Engineering (ICCKE), 2018.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 23,
+  "topics": [
+    "3D vision"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {}
+}

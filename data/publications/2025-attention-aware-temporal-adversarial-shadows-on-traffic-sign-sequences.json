@@ -1,0 +1,30 @@
+{
+  "id": "attention-aware-temporal-adversarial-shadows-on-traffic-sign-sequences",
+  "title": "Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "David Fernandez",
+    "Cigdem Kokenoz",
+    "Bing Li",
+    "Mert D. Pesé"
+  ],
+  "year": 2025,
+  "venue_short": "CVPRW",
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), AdvML Workshop, 2025.",
+  "type": "Workshop paper",
+  "status": "Published",
+  "featured": false,
+  "order": 15,
+  "topics": [
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "Workshop paper",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://openaccess.thecvf.com/content/CVPR2025W/AdvML/html/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPRW_2025_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2025W/AdvML/papers/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPRW_2025_paper.pdf"
+  }
+}

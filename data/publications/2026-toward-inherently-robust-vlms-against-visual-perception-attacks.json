@@ -1,0 +1,34 @@
+{
+  "id": "toward-inherently-robust-vlms-against-visual-perception-attacks",
+  "title": "Toward Inherently Robust VLMs Against Visual Perception Attacks",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "Michael Kühr",
+    "Siyu Huang",
+    "Mohammad Hamad",
+    "Habeeb Olufowobi",
+    "Sebastian Steinhorst",
+    "Bing Li",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "IV",
+  "venue": "IEEE Intelligent Vehicles Symposium (IV), 2026.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 11,
+  "topics": [
+    "Vision-language models",
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "",
+  "links": {
+    "pdf": "https://arxiv.org/pdf/2506.11472",
+    "paper": "https://arxiv.org/abs/2506.11472"
+  }
+}

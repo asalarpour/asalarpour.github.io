@@ -1,0 +1,28 @@
+{
+  "id": "enhancing-3d-point-cloud-classification-with-modelnet-r-and-point-skipnet",
+  "title": "Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet",
+  "authors": [
+    "Mohammad Saeid",
+    "Amir Salarpour",
+    "Pedram MohajerAnsari"
+  ],
+  "year": 2025,
+  "venue_short": "IPRIA",
+  "venue": "2025 International Conference on Pattern Recognition and Image Analysis IPRIA",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 13,
+  "topics": [
+    "3D vision"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "/assets/images/publications/modelnet-r-ipria-2025.webp",
+  "links": {
+    "paper": "https://arxiv.org/abs/2509.05198",
+    "pdf": "https://arxiv.org/pdf/2509.05198",
+    "code": "https://github.com/m-saeid/ModeNetR_PointSkipNet",
+    "project": "https://m-saeid.github.io/ModeNetR_PointSkipNet/"
+  }
+}

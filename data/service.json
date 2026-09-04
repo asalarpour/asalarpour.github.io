@@ -1,0 +1,56 @@
+{
+  "intro": "I contribute to the research community through peer review, program committees, academic leadership, and professional service.",
+  "conference_reviewing": [
+    "IEEE International Conference on Robotics and Automation (ICRA), 2026",
+    "IEEE Intelligent Vehicles Symposium (IV), 2025–2026",
+    "USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2025–2026",
+    "AAAI Conference on Artificial Intelligence, 2025",
+    "British Machine Vision Conference (BMVC), 2025",
+    "ACM Conference on Computer and Communications Security (CCS), 2024",
+    "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023"
+  ],
+  "journal_reviewing": {
+    "verified_reviews": 117,
+    "journals": [
+      "IEEE Transactions on Information Forensics and Security",
+      "IEEE Transactions on Image Processing",
+      "IEEE Transactions on Circuits and Systems for Video Technology",
+      "IEEE Transactions on Multimedia",
+      "IEEE Transactions on Automation Science and Engineering",
+      "IEEE Transactions on Vehicular Technology",
+      "IEEE Signal Processing Letters",
+      "IEEE Intelligent Systems",
+      "IEEE Computer Graphics and Applications",
+      "IEEE Transactions on Consumer Electronics",
+      "ACM Digital Threats: Research and Practice",
+      "IET Image Processing",
+      "CAAI Transactions on Intelligence Technology",
+      "Science China Technological Sciences",
+      "Journal of Ambient Intelligence and Humanized Computing",
+      "Sensors",
+      "IEEE Access"
+    ]
+  },
+  "leadership": [
+    {
+      "role": "Department Chair, Computer Science",
+      "institution": "Sirjan University of Technology",
+      "period": "Mar 2020 – Dec 2022"
+    },
+    {
+      "role": "Director, International Academic Cooperation",
+      "institution": "Sirjan University of Technology",
+      "period": "Jun 2021 – Apr 2022"
+    },
+    {
+      "role": "Academic Chair",
+      "institution": "National Conference of Ideas and Innovation in Business and Information Technology",
+      "period": "2019, 2021, 2022"
+    }
+  ],
+  "memberships": [
+    "IEEE Graduate Student Member",
+    "IEEE Young Professionals",
+    "ACM Professional Member"
+  ]
+}

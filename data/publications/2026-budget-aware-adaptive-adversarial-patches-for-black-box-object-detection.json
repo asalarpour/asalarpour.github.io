@@ -1,0 +1,27 @@
+{
+  "id": "budget-aware-adaptive-adversarial-patches-for-black-box-object-detection",
+  "title": "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "David Fernandez",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "ICIP",
+  "venue": "IEEE International Conference on Image Processing (ICIP), 2026.",
+  "type": "Conference paper",
+  "status": "Accepted",
+  "featured": true,
+  "order": 3,
+  "topics": [
+    "Adversarial robustness"
+  ],
+  "note": "Accepted",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2606.18318",
+    "pdf": "https://arxiv.org/pdf/2606.18318"
+  }
+}

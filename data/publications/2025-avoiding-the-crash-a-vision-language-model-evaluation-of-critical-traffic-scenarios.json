@@ -1,0 +1,28 @@
+{
+  "id": "avoiding-the-crash-a-vision-language-model-evaluation-of-critical-traffic-scenarios",
+  "title": "Avoiding the Crash: A Vision-Language Model Evaluation of Critical Traffic Scenarios",
+  "authors": [
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "Mert D. Pesé"
+  ],
+  "year": 2025,
+  "venue_short": "SAE",
+  "venue": "SAE Technical Paper 2025-01-8213, 2025.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 16,
+  "topics": [
+    "Vision-language models",
+    "Autonomous driving"
+  ],
+  "note": "Best Paper Award",
+  "award": "Best Paper Award",
+  "image": "",
+  "links": {
+    "paper": "https://doi.org/10.4271/2025-01-8213",
+    "doi": "https://doi.org/10.4271/2025-01-8213"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-multiresolution-approach-to-trajectory-description",
+  "title": "A Multiresolution Approach to Trajectory Description",
+  "authors": [
+    "Amir Salarpour",
+    "Hassan Khotanlou",
+    "Mohammad Amin Mahboubi",
+    "Saleh Daghigh"
+  ],
+  "year": 2017,
+  "venue_short": "IPRIA",
+  "venue": "3rd International Conference on Pattern Recognition and Image Analysis (IPRIA), 2017.",
+  "type": "Conference paper",
+  "status": "Published",
+  "featured": false,
+  "order": 25,
+  "topics": [
+    "Time-series analysis"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {}
+}

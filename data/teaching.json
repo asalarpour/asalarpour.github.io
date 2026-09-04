@@ -1,0 +1,45 @@
+{
+  "intro": "My teaching connects core computer-science concepts with the security and reliability challenges of modern intelligent systems.",
+  "current": [
+    {
+      "course": "CPSC 4200/6200",
+      "title": "Computer Security Principles",
+      "term": "Spring 2026",
+      "institution": "Clemson University",
+      "role": "Instructor of Record"
+    },
+    {
+      "course": "CPSC 8580",
+      "title": "Security in Emerging Computing and Networking Systems",
+      "term": "Spring 2025",
+      "institution": "Clemson University",
+      "role": "Instructor of Record"
+    }
+  ],
+  "prior": {
+    "institution": "Sirjan University of Technology",
+    "role": "Assistant Professor, 2018–2022",
+    "graduate": [
+      "Machine Learning",
+      "Deep Learning",
+      "Pattern Recognition",
+      "Image Processing",
+      "Advanced Artificial Intelligence"
+    ],
+    "undergraduate": [
+      "Advanced Programming",
+      "Algorithms",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Internet Engineering",
+      "Software Engineering"
+    ]
+  },
+  "areas": [
+    "Computer and network security",
+    "Machine learning and deep learning",
+    "Computer vision and image processing",
+    "Artificial intelligence",
+    "Algorithms and software systems"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vehicle-tracking-using-kalman-filter-and-features",
+  "title": "Vehicle Tracking Using Kalman Filter and Features",
+  "authors": [
+    "Amir Salarpour",
+    "Arezoo Salarpour",
+    "Mahmoud Fathi",
+    "Mir Hossein Dezfoulian"
+  ],
+  "year": 2011,
+  "venue_short": "SIPIJ",
+  "venue": "Signal & Image Processing: An International Journal, 2011.",
+  "type": "Journal article",
+  "status": "Published",
+  "featured": false,
+  "order": 33,
+  "topics": [
+    "Autonomous driving",
+    "Signal processing"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {}
+}
