@@ -555,6 +555,15 @@ def home_page(site: dict[str, Any], profile: dict[str, Any], research: dict[str,
       {render_profile_links(profile)}
     </div>
   </section>
+  <section class="section" id="news">
+    <div class="container">
+      <div class="section-heading">
+        <div><h2>Recent news</h2></div>
+        {text_link('/news/', 'All news')}
+      </div>
+      <div class="news-list home-news">{news_items}</div>
+    </div>
+  </section>
 
   <section class="section section-soft" id="research">
     <div class="container">
@@ -578,15 +587,17 @@ def home_page(site: dict[str, Any], profile: dict[str, Any], research: dict[str,
 
   {projects_section}
 
-  <section class="section" id="news">
-    <div class="container">
-      <div class="section-heading"><div><h2>Recent news</h2></div>{text_link('/news/', 'All news')}</div>
-      <div class="news-list home-news">{news_items}</div>
-    </div>
-  </section>
 </main>"""
-    return page_shell(site=site, profile=profile, title=site["title"], description=site["description"], path="/", active="home", body=body, preload_profile=True)
-
+    return page_shell(
+        site=site,
+        profile=profile,
+        title=site["title"],
+        description=site["description"],
+        path="/",
+        active="home",
+        body=body,
+        preload_profile=True,
+    )
 
 def research_page(site: dict[str, Any], profile: dict[str, Any], research: dict[str, Any], projects: list[dict[str, Any]]) -> str:
     cards = "".join(
