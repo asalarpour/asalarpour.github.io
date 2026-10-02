@@ -475,29 +475,94 @@ def project_html(project: dict[str, Any]) -> str:
 def render_news_item(item: dict[str, Any], pub_by_id: dict[str, dict[str, Any]]) -> str:
     text = esc(item["text"])
     related = ""
+    venue_label = ""
+
     if item.get("publication"):
         pub = pub_by_id[item["publication"]]
+
+        venue_short = pub.get("venue_short", "").strip()
+        year = pub.get("year", "")
+        if venue_short:
+            venue_label = f"{venue_short} {year}".strip()
+
         title = pub["title"]
         href = best_publication_url(pub)
         link_text = item.get("link_text", title)
+
         if href and link_text in item["text"]:
-            linked = f'<a href="{esc(href)}"{link_attrs(href)}>{esc(link_text)}</a>'
+            linked = (
+                f'<a href="{esc(href)}"{link_attrs(href)}>'
+                f'{esc(link_text)}</a>'
+            )
             text = text.replace(esc(link_text), linked, 1)
+
         elif href:
-            related = f'<p class="news-related"><a href="{esc(href)}"{link_attrs(href)}>Paper</a></p>' 
+            related = (
+                f'<p class="news-related">'
+                f'<a href="{esc(href)}"{link_attrs(href)}>Paper</a>'
+                f'</p>'
+            )
+
     if item.get("publications"):
+        pubs = [pub_by_id[pid] for pid in item["publications"]]
+
+        venue_names = {
+            pub.get("venue_short", "").strip()
+            for pub in pubs
+            if pub.get("venue_short")
+        }
+
+        years = {
+            pub.get("year")
+            for pub in pubs
+            if pub.get("year")
+        }
+
+        if len(venue_names) == 1:
+            venue_name = next(iter(venue_names))
+            venue_year = next(iter(years)) if len(years) == 1 else ""
+            venue_label = f"{venue_name} {venue_year}".strip()
+
         entries = []
-        for pid in item["publications"]:
-            pub = pub_by_id[pid]
+
+        for pub in pubs:
             href = best_publication_url(pub)
             title = esc(pub["title"])
-            title_html = f'<a href="{esc(href)}"{link_attrs(href)}>{title}</a>' if href else title
+
+            if href:
+                title_html = (
+                    f'<a href="{esc(href)}"{link_attrs(href)}>'
+                    f'{title}</a>'
+                )
+            else:
+                title_html = title
+
             entries.append(f"<li>{title_html}</li>")
-        related = f'<ul class="clean-list news-papers">{"".join(entries)}</ul>'
+
+        related = (
+            f'<ul class="clean-list news-papers">'
+            f'{"".join(entries)}'
+            f'</ul>'
+        )
+
+    venue_html = (
+        f'<div class="news-venue">{esc(venue_label)}</div>'
+        if venue_label
+        else ""
+    )
+
     return f"""
 <article class="news-item">
-  <time class="news-date" datetime="{esc(item['date'])}">{esc(item['label'])}</time>
-  <div class="news-content"><p>{text}</p>{related}<div class="news-kind">{esc(item['kind'])}</div></div>
+  <time class="news-date" datetime="{esc(item['date'])}">
+    {esc(item['label'])}
+  </time>
+
+  <div class="news-content">
+    {venue_html}
+    <p>{text}</p>
+    {related}
+    <div class="news-kind">{esc(item['kind'])}</div>
+  </div>
 </article>"""
 
 

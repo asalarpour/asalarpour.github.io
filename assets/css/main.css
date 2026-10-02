@@ -806,15 +806,24 @@ main {
   text-transform: uppercase;
 }
 
+.news-venue {
+  margin-bottom: 5px;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
 .news-content p {
   margin: 0;
-  color: var(--text);
+  color: var(--text-soft);
   font-size: 0.91rem;
 }
 
 .news-content a {
   color: var(--heading);
-  font-weight: 660;
+  font-weight: 540;
   text-decoration-color: var(--line-strong);
 }
 
