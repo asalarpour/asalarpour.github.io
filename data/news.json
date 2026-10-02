@@ -1,9 +1,19 @@
 [
   {
+    "date": "2026-09-24",
+    "label": "Sep 2026",
+    "kind": "Publication",
+    "text": "Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation was accepted to NeurIPS 2026.",
+    "publication": "relational-feature-distillation-for-lightweight-3d-point-cloud-segmentation",
+    "link_text": "Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation"
+  },
+  {
     "date": "2026-09-08",
     "label": "Sep 2026",
     "kind": "Publication",
-    "text": "On the Vulnerability of Lane Detectors to Physical Shadow Attack was accepted to ACSAC 2026."
+    "text": "On the Vulnerability of Lane Detectors to Physical Shadow Attack was accepted to ACSAC 2026.",
+    "publication": "on-the-vulnerability-of-lane-detectors-to-physical-shadow-attack",
+    "link_text": "On the Vulnerability of Lane Detectors to Physical Shadow Attack"
   },
   {
     "date": "2026-08-07",
@@ -18,14 +28,16 @@
     "label": "Jun 2026",
     "kind": "Publication",
     "text": "Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles was accepted to IROS 2026.",
-    "publication": "distilling-vision-language-models-for-robust-traffic-sign-perception-in-autonomous-vehicles"
+    "publication": "distilling-vision-language-models-for-robust-traffic-sign-perception-in-autonomous-vehicles",
+    "link_text": "Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles"
   },
   {
     "date": "2026-05-01",
     "label": "May 2026",
     "kind": "Publication",
     "text": "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection was accepted to IEEE ICIP 2026.",
-    "publication": "budget-aware-adaptive-adversarial-patches-for-black-box-object-detection"
+    "publication": "budget-aware-adaptive-adversarial-patches-for-black-box-object-detection",
+    "link_text": "Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection"
   },
   {
     "date": "2026-03-20",
