@@ -9,16 +9,19 @@
   ],
   "year": 2017,
   "venue_short": "IPRIA",
-  "venue": "3rd International Conference on Pattern Recognition and Image Analysis (IPRIA), 2017.",
+  "venue": "3rd International Conference on Pattern Recognition and Image Analysis (IPRIA), pp. 62–68, 2017.",
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 25,
+  "order": 33,
   "topics": [
     "Time-series analysis"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://doi.org/10.1109/PRIA.2017.7983019",
+    "doi": "https://doi.org/10.1109/PRIA.2017.7983019"
+  }
 }

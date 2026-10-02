@@ -12,13 +12,13 @@
   "type": "Conference paper",
   "status": "Accepted",
   "featured": true,
-  "order": 2,
+  "order": 5,
   "topics": [
     "Vision-language models",
     "Autonomous driving",
     "Adversarial robustness"
   ],
-  "note": "Accepted",
+  "note": "",
   "award": "",
   "image": "",
   "links": {

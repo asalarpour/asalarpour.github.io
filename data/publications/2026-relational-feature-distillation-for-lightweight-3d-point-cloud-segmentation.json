@@ -1,0 +1,27 @@
+{
+  "id": "relational-feature-distillation-for-lightweight-3d-point-cloud-segmentation",
+  "title": "Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation",
+  "authors": [
+    "Mohammad Saeid",
+    "Amir Salarpour",
+    "Pedram MohajerAnsari",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "NeurIPS",
+  "venue": "Conference on Neural Information Processing Systems (NeurIPS), 2026.",
+  "type": "Conference paper",
+  "status": "Accepted",
+  "featured": true,
+  "order": 1,
+  "topics": [
+    "3D vision",
+    "Semantic segmentation",
+    "Knowledge distillation",
+    "Efficient deep learning"
+  ],
+  "note": "Main Track · Poster",
+  "award": "",
+  "image": "",
+  "links": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "david-vs-goliath-a-comparative-study-of-different-sized-llms-for-code-generation-in-the-domain-of-automotive-scenario-generation",
+  "title": "David vs. Goliath: A Comparative Study of Different-Sized LLMs for Code Generation in the Domain of Automotive Scenario Generation",
+  "authors": [
+    "Philipp Bauerfeind",
+    "Amir Salarpour",
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Johannes Reschke",
+    "Mert D. Pesé"
+  ],
+  "year": 2025,
+  "venue_short": "arXiv",
+  "venue": "arXiv preprint arXiv:2510.14115, 2025.",
+  "type": "Preprint",
+  "status": "Preprint",
+  "featured": false,
+  "order": 22,
+  "topics": [
+    "Autonomous driving",
+    "Large language models",
+    "Code generation"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2510.14115",
+    "pdf": "https://arxiv.org/pdf/2510.14115"
+  }
+}

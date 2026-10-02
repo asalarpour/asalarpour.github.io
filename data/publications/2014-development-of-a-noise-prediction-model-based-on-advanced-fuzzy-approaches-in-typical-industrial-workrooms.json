@@ -10,16 +10,18 @@
   ],
   "year": 2014,
   "venue_short": "JRHS",
-  "venue": "Journal of Research in Health Sciences, 2014.",
+  "venue": "Journal of Research in Health Sciences, vol. 14, no. 2, pp. 157–162, 2014.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 29,
+  "order": 37,
   "topics": [
     "Signal processing"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://pubmed.ncbi.nlm.nih.gov/24728753/"
+  }
 }

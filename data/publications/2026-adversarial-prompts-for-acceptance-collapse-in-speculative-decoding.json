@@ -1,0 +1,35 @@
+{
+  "id": "adversarial-prompts-for-acceptance-collapse-in-speculative-decoding",
+  "title": "Adversarial Prompts for Acceptance Collapse in Speculative Decoding",
+  "authors": [
+    "Run Wang",
+    "Chaoyi Zhou",
+    "Xi Liu",
+    "Yi Zhu",
+    "Amir Salarpour",
+    "Pedram MohajerAnsari",
+    "Zhi-Qi Cheng",
+    "Feng Luo",
+    "Siyu Huang",
+    "Mert D. Pesé"
+  ],
+  "year": 2026,
+  "venue_short": "arXiv",
+  "venue": "arXiv preprint arXiv:2607.21804, 2026.",
+  "type": "Preprint",
+  "status": "Preprint",
+  "featured": false,
+  "order": 10,
+  "topics": [
+    "AI security",
+    "Large language models",
+    "Efficient inference"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2607.21804",
+    "pdf": "https://arxiv.org/pdf/2607.21804"
+  }
+}

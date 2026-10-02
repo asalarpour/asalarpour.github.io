@@ -9,19 +9,20 @@
   ],
   "year": 2026,
   "venue_short": "CVPRW",
-  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, 2026.",
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, pp. 516–524, 2026.",
   "type": "Workshop paper",
   "status": "Published",
   "featured": false,
-  "order": 7,
+  "order": 11,
   "topics": [
     "Autonomous driving",
     "Adversarial robustness"
   ],
-  "note": "Workshop paper",
+  "note": "",
   "award": "",
   "image": "",
   "links": {
-    "paper": "https://openaccess.thecvf.com/content/CVPR2026W/6thAdvML%40CV/html/McEntarffer_Auditing_Traffic-Sign_Robustness_via_DDIM_Inversion_Do_Diffusion_Latents_Preserve_CVPRW_2026_paper.html"
+    "paper": "https://openaccess.thecvf.com/content/CVPR2026W/6thAdvML%40CV/html/McEntarffer_Auditing_Traffic-Sign_Robustness_via_DDIM_Inversion_Do_Diffusion_Latents_Preserve_CVPRW_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026W/6thAdvML%40CV/papers/McEntarffer_Auditing_Traffic-Sign_Robustness_via_DDIM_Inversion_Do_Diffusion_Latents_Preserve_CVPRW_2026_paper.pdf"
   }
 }

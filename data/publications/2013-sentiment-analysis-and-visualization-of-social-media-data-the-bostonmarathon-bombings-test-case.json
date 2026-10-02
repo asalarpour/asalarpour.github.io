@@ -12,12 +12,14 @@
   "type": "Online article",
   "status": "Published",
   "featured": false,
-  "order": 32,
+  "order": 40,
   "topics": [
     "Machine learning"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://www.researchgate.net/publication/268503467_Sentiment_Analysis_and_Visualization_of_Social_Media_Data_The_BostonMarathon_Bombings_test_case"
+  }
 }

@@ -10,16 +10,19 @@
   ],
   "year": 2015,
   "venue_short": "Applied AI",
-  "venue": "Applied Artificial Intelligence, 2015.",
+  "venue": "Applied Artificial Intelligence, vol. 29, no. 8, pp. 766–785, 2015.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 27,
+  "order": 35,
   "topics": [
     "Signal processing"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://www.tandfonline.com/doi/full/10.1080/08839514.2015.1071090",
+    "doi": "https://doi.org/10.1080/08839514.2015.1071090"
+  }
 }

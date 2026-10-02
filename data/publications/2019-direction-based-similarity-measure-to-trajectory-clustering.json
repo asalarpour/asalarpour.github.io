@@ -7,11 +7,11 @@
   ],
   "year": 2019,
   "venue_short": "IET SP",
-  "venue": "IET Signal Processing, 2019.",
+  "venue": "IET Signal Processing, vol. 13, no. 1, pp. 70–76, 2019.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 22,
+  "order": 29,
   "topics": [
     "Time-series analysis",
     "Signal processing"
@@ -19,5 +19,8 @@
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2018.5235",
+    "doi": "https://doi.org/10.1049/iet-spr.2018.5235"
+  }
 }

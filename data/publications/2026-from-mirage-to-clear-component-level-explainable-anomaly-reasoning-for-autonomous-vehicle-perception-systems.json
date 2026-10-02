@@ -11,17 +11,17 @@
   ],
   "year": 2026,
   "venue_short": "DSN",
-  "venue": "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026.",
+  "venue": "56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pp. 718–731, 2026.",
   "type": "Conference paper",
   "status": "Published",
   "featured": true,
-  "order": 4,
+  "order": 7,
   "topics": [
     "Autonomous driving",
     "Adversarial robustness",
     "Explainability"
   ],
-  "note": "Accepted",
+  "note": "",
   "award": "",
   "image": "",
   "links": {

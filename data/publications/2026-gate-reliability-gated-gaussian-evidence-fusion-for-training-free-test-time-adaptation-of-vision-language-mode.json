@@ -13,12 +13,12 @@
   "type": "Conference paper",
   "status": "Accepted",
   "featured": true,
-  "order": 1,
+  "order": 4,
   "topics": [
     "Vision-language models",
     "Test-time adaptation"
   ],
-  "note": "Accepted",
+  "note": "",
   "award": "",
   "image": "",
   "links": {

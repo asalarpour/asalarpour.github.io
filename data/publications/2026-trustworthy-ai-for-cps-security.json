@@ -10,12 +10,12 @@
     "Mert D. Pesé"
   ],
   "year": 2026,
-  "venue_short": "Book",
-  "venue": "Book chapter (Springer), Accepted; to appear, 2026.",
+  "venue_short": "Springer",
+  "venue": "Artificial Intelligence for Cyberphysical Systems Security and Resilience: Theory and Applications in Smart Environments, Springer, accepted; to appear, 2026.",
   "type": "Book chapter",
   "status": "Accepted",
   "featured": false,
-  "order": 12,
+  "order": 18,
   "topics": [
     "Adversarial robustness"
   ],

@@ -11,11 +11,11 @@
   ],
   "year": 2025,
   "venue_short": "VehicleSec",
-  "venue": "3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec 25), 2025.",
+  "venue": "3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec 25), pp. 315–324, 2025.",
   "type": "Workshop paper",
   "status": "Published",
   "featured": false,
-  "order": 14,
+  "order": 25,
   "topics": [
     "Autonomous driving",
     "Adversarial robustness"

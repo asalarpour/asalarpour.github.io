@@ -8,16 +8,19 @@
   ],
   "year": 2021,
   "venue_short": "IJEPES",
-  "venue": "International Journal of Electrical Power & Energy Systems, 2021.",
+  "venue": "International Journal of Electrical Power & Energy Systems, vol. 124, article 106363, 2021.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 19,
+  "order": 27,
   "topics": [
     "Signal processing"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://www.sciencedirect.com/science/article/pii/S0142061520302040",
+    "doi": "https://doi.org/10.1016/j.ijepes.2020.106363"
+  }
 }

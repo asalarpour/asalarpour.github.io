@@ -3,21 +3,22 @@
   "title": "Line-Segment Based Trajectory Similarity Measure Using Time Warping Technique",
   "authors": [
     "Amir Salarpour",
-    "Hassan Khotanlou",
-    "et al."
+    "Hassan Khotanlou"
   ],
   "year": 2019,
-  "venue_short": "TJEE",
-  "venue": "Tabriz Journal of Electrical Engineering, 2019.",
+  "venue_short": "JEE",
+  "venue": "Journal of Electrical Engineering, vol. 49, no. 2, pp. 645–656, 2019.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 21,
+  "order": 30,
   "topics": [
     "Time-series analysis"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://www.magiran.com/paper/2010976/line-segment-based-trajectory-similarity-measure-using-time-warping-technique?lang=en"
+  }
 }

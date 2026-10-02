@@ -8,16 +8,21 @@
   ],
   "year": 2025,
   "venue_short": "CSICC",
-  "venue": "29th International Computer Conference, Computer Society of Iran (CSICC), 2025.",
+  "venue": "29th International Computer Conference, Computer Society of Iran (CSICC), pp. 1–7, 2025.",
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 17,
+  "order": 24,
   "topics": [
     "3D vision"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://arxiv.org/abs/2501.14238",
+    "pdf": "https://arxiv.org/pdf/2501.14238",
+    "code": "https://github.com/asalarpour/Point_LN",
+    "doi": "https://doi.org/10.1109/CSICC65765.2025.10967399"
+  }
 }

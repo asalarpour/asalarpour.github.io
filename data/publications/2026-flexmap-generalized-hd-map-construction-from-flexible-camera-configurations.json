@@ -1,0 +1,33 @@
+{
+  "id": "flexmap-generalized-hd-map-construction-from-flexible-camera-configurations",
+  "title": "FlexMap: Generalized HD Map Construction from Flexible Camera Configurations",
+  "authors": [
+    "Run Wang",
+    "Chaoyi Zhou",
+    "Amir Salarpour",
+    "Xi Liu",
+    "Zhi-Qi Cheng",
+    "Feng Luo",
+    "Mert D. Pesé",
+    "Siyu Huang"
+  ],
+  "year": 2026,
+  "venue_short": "arXiv",
+  "venue": "arXiv preprint arXiv:2601.22376, 2026.",
+  "type": "Preprint",
+  "status": "Preprint",
+  "featured": false,
+  "order": 13,
+  "topics": [
+    "Autonomous driving",
+    "3D vision",
+    "HD mapping"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2601.22376",
+    "pdf": "https://arxiv.org/pdf/2601.22376"
+  }
+}

@@ -7,16 +7,19 @@
   ],
   "year": 2018,
   "venue_short": "IJE",
-  "venue": "International Journal of Engineering, 2018.",
+  "venue": "International Journal of Engineering, vol. 31, no. 2, pp. 250–262, 2018.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 24,
+  "order": 31,
   "topics": [
     "Time-series analysis"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://doi.org/10.5829/ije.2018.31.02b.08",
+    "doi": "https://doi.org/10.5829/ije.2018.31.02b.08"
+  }
 }

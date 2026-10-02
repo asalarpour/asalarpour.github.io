@@ -1,0 +1,33 @@
+{
+  "id": "discovering-new-shadow-patterns-for-black-box-attacks-on-lane-detection-of-autonomous-vehicles",
+  "title": "Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles",
+  "authors": [
+    "Pedram MohajerAnsari",
+    "Alkim Domeke",
+    "Jan de Voor",
+    "Arkajyoti Mitra",
+    "Grace Johnson",
+    "Amir Salarpour",
+    "Habeeb Olufowobi",
+    "Mohammad Hamad",
+    "Mert D. Pesé"
+  ],
+  "year": 2024,
+  "venue_short": "arXiv",
+  "venue": "arXiv preprint arXiv:2409.18248, 2024.",
+  "type": "Preprint",
+  "status": "Preprint",
+  "featured": false,
+  "order": 26,
+  "topics": [
+    "Autonomous driving",
+    "Adversarial robustness"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {
+    "paper": "https://arxiv.org/abs/2409.18248",
+    "pdf": "https://arxiv.org/pdf/2409.18248"
+  }
+}

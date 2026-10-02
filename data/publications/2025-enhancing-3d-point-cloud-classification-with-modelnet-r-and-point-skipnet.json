@@ -8,15 +8,15 @@
   ],
   "year": 2025,
   "venue_short": "IPRIA",
-  "venue": "2025 International Conference on Pattern Recognition and Image Analysis IPRIA",
+  "venue": "7th International Conference on Pattern Recognition and Image Analysis (IPRIA), 2025.",
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 13,
+  "order": 23,
   "topics": [
     "3D vision"
   ],
-  "note": "Accepted",
+  "note": "Oral presentation",
   "award": "",
   "image": "/assets/images/publications/modelnet-r-ipria-2025.webp",
   "links": {

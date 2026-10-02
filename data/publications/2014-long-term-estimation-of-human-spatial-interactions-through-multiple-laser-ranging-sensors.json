@@ -8,16 +8,19 @@
   ],
   "year": 2014,
   "venue_short": "iCREATE",
-  "venue": "International Conference on Robotics and Emerging Allied Technologies in Engineering (iCREATE), 2014.",
+  "venue": "International Conference on Robotics and Emerging Allied Technologies in Engineering (iCREATE), pp. 109–114, 2014.",
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 31,
+  "order": 38,
   "topics": [
     "Machine learning"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://doi.org/10.1109/iCREATE.2014.6828349",
+    "doi": "https://doi.org/10.1109/iCREATE.2014.6828349"
+  }
 }

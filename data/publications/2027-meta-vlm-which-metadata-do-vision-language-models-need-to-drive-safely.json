@@ -1,0 +1,25 @@
+{
+  "id": "meta-vlm-which-metadata-do-vision-language-models-need-to-drive-safely",
+  "title": "Meta-VLM: Which Metadata Do Vision-Language Models Need to Drive Safely?",
+  "authors": [
+    "David Fernandez",
+    "Pedram MohajerAnsari",
+    "Amir Salarpour",
+    "Mert D. Pesé"
+  ],
+  "year": 2027,
+  "venue_short": "WACV",
+  "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027.",
+  "type": "Conference paper",
+  "status": "Accepted",
+  "featured": true,
+  "order": 2,
+  "topics": [
+    "Vision-language models",
+    "Autonomous driving"
+  ],
+  "note": "",
+  "award": "",
+  "image": "",
+  "links": {}
+}

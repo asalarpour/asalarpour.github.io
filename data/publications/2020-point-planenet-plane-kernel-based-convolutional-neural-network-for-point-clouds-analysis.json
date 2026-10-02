@@ -9,11 +9,11 @@
   ],
   "year": 2020,
   "venue_short": "DSP",
-  "venue": "Digital Signal Processing, 2020.",
+  "venue": "Digital Signal Processing, vol. 98, article 102633, 2020.",
   "type": "Journal article",
   "status": "Published",
   "featured": false,
-  "order": 20,
+  "order": 28,
   "topics": [
     "3D vision",
     "Signal processing"
@@ -21,5 +21,8 @@
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://www.sciencedirect.com/science/article/pii/S1051200419301873",
+    "doi": "https://doi.org/10.1016/j.dsp.2019.102633"
+  }
 }

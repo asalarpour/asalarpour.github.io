@@ -11,22 +11,23 @@
   ],
   "year": 2026,
   "venue_short": "IV",
-  "venue": "IEEE Intelligent Vehicles Symposium (IV), 2026.",
+  "venue": "IEEE Intelligent Vehicles Symposium (IV), pp. 1861–1868, 2026.",
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 10,
+  "order": 12,
   "topics": [
     "Vision-language models",
     "Autonomous driving",
     "Adversarial robustness"
   ],
-  "note": "Accepted",
+  "note": "",
   "award": "",
   "image": "",
   "links": {
     "paper": "https://arxiv.org/abs/2603.08897",
     "pdf": "https://arxiv.org/pdf/2603.08897",
-    "code": "https://github.com/David-FR/VLMsPatchAttack"
+    "code": "https://github.com/David-FR/VLMsPatchAttack",
+    "doi": "https://doi.org/10.1109/IV66570.2026.11624055"
   }
 }

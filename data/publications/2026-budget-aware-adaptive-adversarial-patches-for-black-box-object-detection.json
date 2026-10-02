@@ -13,11 +13,11 @@
   "type": "Conference paper",
   "status": "Accepted",
   "featured": true,
-  "order": 3,
+  "order": 6,
   "topics": [
     "Adversarial robustness"
   ],
-  "note": "Accepted",
+  "note": "Oral presentation",
   "award": "",
   "image": "",
   "links": {

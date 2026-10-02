@@ -9,16 +9,16 @@
   ],
   "year": 2026,
   "venue_short": "CVPRW",
-  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, 2026.",
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, pp. 533–540, 2026.",
   "type": "Workshop paper",
   "status": "Published",
   "featured": false,
-  "order": 6,
+  "order": 16,
   "topics": [
     "Autonomous driving",
     "Adversarial robustness"
   ],
-  "note": "Workshop paper",
+  "note": "",
   "award": "",
   "image": "",
   "links": {

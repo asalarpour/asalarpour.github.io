@@ -9,16 +9,19 @@
   ],
   "year": 2018,
   "venue_short": "ICCKE",
-  "venue": "8th International Conference on Computer and Knowledge Engineering (ICCKE), 2018.",
+  "venue": "8th International Conference on Computer and Knowledge Engineering (ICCKE), pp. 200–204, 2018.",
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 23,
+  "order": 32,
   "topics": [
     "3D vision"
   ],
   "note": "",
   "award": "",
   "image": "",
-  "links": {}
+  "links": {
+    "paper": "https://doi.org/10.1109/ICCKE.2018.8566273",
+    "doi": "https://doi.org/10.1109/ICCKE.2018.8566273"
+  }
 }

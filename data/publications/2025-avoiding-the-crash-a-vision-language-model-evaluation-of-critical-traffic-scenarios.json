@@ -13,12 +13,12 @@
   "type": "Conference paper",
   "status": "Published",
   "featured": false,
-  "order": 16,
+  "order": 21,
   "topics": [
     "Vision-language models",
     "Autonomous driving"
   ],
-  "note": "Best Paper Award",
+  "note": "",
   "award": "Best Paper Award",
   "image": "",
   "links": {

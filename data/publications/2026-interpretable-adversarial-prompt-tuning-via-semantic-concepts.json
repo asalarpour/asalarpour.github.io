@@ -10,19 +10,20 @@
   ],
   "year": 2026,
   "venue_short": "CVPRW",
-  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, 2026.",
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 6th AdvML Workshop, pp. 525–532, 2026.",
   "type": "Workshop paper",
   "status": "Published",
   "featured": false,
-  "order": 5,
+  "order": 14,
   "topics": [
     "Adversarial robustness",
     "Explainability"
   ],
-  "note": "Workshop paper",
+  "note": "",
   "award": "",
   "image": "",
   "links": {
-    "paper": "https://openreview.net/forum?id=JH96sLee8n"
+    "paper": "https://openreview.net/forum?id=JH96sLee8n",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026W/6thAdvML%40CV/papers/MohajerAnsari_Interpretable_Adversarial_Prompt_Tuning_via_Semantic_Concepts_CVPRW_2026_paper.pdf"
   }
 }
